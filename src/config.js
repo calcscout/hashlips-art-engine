@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = 'Grill';
 const description = 'Collection of NFT grills for your Apes';
-const baseUri = 'ipfs://';
+const baseUri = 'ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q';
 
 const solanaMetadata = {
 	symbol: 'YC',
@@ -35,7 +35,57 @@ const layerConfigurations = [
 	},
 	{
 		growEditionSizeTo: 100,
+		race: 'Dumbfounded',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 150,
 		race: 'Grin',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 200,
+		race: 'Jovial',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 250,
+		race: 'Phoneme Vuh',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 300,
+		race: 'Rage',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 350,
+		race: 'Small Grin',
 		layersOrder: [
 			{ name: 'Outline' },
 			{ name: 'Grill' },
@@ -45,13 +95,13 @@ const layerConfigurations = [
 	},
 ];
 
-const shuffleLayerConfigurations = false;
+const shuffleLayerConfigurations = true;
 
 const debugLogs = false;
 
 const format = {
-	width: 512,
-	height: 512,
+	width: 631,
+	height: 631,
 	smoothing: false,
 };
 
