@@ -1,0 +1,32 @@
+{
+  "collection": "Grills",
+  "folder": "grills",
+  "edition": 201,
+  "id": "grills-201",
+  "name": "Grill #201",
+  "dna": "58c301b21547e73f98068ae508b654cd4090ce26",
+  "description": "Collection of NFT grills for your Apes",
+  "image": "ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q/201.png",
+  "apes": [
+    0
+  ],
+  "date": 1640610419078,
+  "attributes": [
+    {
+      "trait_type": "Outline",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Grill",
+      "value": "Tie"
+    },
+    {
+      "trait_type": "Inner fill",
+      "value": "Turq"
+    },
+    {
+      "trait_type": "Outer fill",
+      "value": "Orange Blue"
+    }
+  ]
+}

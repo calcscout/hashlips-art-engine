@@ -5,10 +5,10 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 //AM defined modifications
-const collectionName = 'Bongs';
-const collectionFolder = 'bongs';
-const containRaces = false; //if false, only one race is considered
-const suitingMouthNumbers = [1, 2]; //ignored if there are races
+const collectionName = 'Grills';
+const collectionFolder = 'grills';
+const containRaces = true; //if false, only one race is considered
+const suitingMouthNumbers = []; //ignored if there are races
 
 const mouthNumbers = {
 	bored: 1,
@@ -47,17 +47,17 @@ const mouthNumbers = {
 };
 
 // General metadata for Ethereum
-const namePrefix = 'Bong';
-const description = 'Collection of NFT bongs for your Apes';
+const namePrefix = 'Grill';
+const description = 'Collection of NFT grills for your Apes';
 const baseUri = 'ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q';
 
 const solanaMetadata = {
 	symbol: 'YC',
-	seller_fee_basis_points: 100, // Define how much % you want from secondary market sales 1000 = 10%
-	external_url: 'https://www.youtube.com/c/hashlipsnft',
+	seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
+	external_url: 'https://www.youtube.com/',
 	creators: [
 		{
-			address: '7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC',
+			address: '',
 			share: 100,
 		},
 	],
@@ -66,13 +66,73 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
 	{
-		growEditionSizeTo: 1100,
+		growEditionSizeTo: 60,
+		race: 'Discomfort',
 		layersOrder: [
-			{ name: 'Mouth' },
-			{ name: 'Bong' },
-			{ name: 'Fill' },
-			{ name: 'Smoke' },
-			{ name: 'Sticker' },
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 135,
+		race: 'Dumbfounded',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 210,
+		race: 'Grin',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 285,
+		race: 'Jovial',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 360,
+		race: 'Phoneme Vuh',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 480,
+		race: 'Rage',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 555,
+		race: 'Small Grin',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
 		],
 	},
 ];
@@ -84,7 +144,7 @@ const debugLogs = false;
 const format = {
 	width: 631,
 	height: 631,
-	smoothing: true,
+	smoothing: false,
 };
 
 const gif = {

@@ -1,0 +1,27 @@
+{
+  "collection": "Grills",
+  "edition": 45,
+  "name": "Grill #45",
+  "dna": "4e6092c49530eff9d0605c4cd787cafccfe84b2b",
+  "description": "Collection of NFT grills for your Apes",
+  "image": "ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q/45.png",
+  "date": 1640610411349,
+  "attributes": [
+    {
+      "trait_type": "Outline",
+      "value": "Rage"
+    },
+    {
+      "trait_type": "Grill",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Inner fill",
+      "value": "Tie Dye"
+    },
+    {
+      "trait_type": "Outer fill",
+      "value": "Leopard"
+    }
+  ]
+}

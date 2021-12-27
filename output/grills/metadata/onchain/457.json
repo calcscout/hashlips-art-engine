@@ -1,0 +1,27 @@
+{
+  "collection": "Grills",
+  "edition": 457,
+  "name": "Grill #457",
+  "dna": "d7d1b9320e2cd9e120170b18f797e5cbb5f741b7",
+  "description": "Collection of NFT grills for your Apes",
+  "image": "ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q/457.png",
+  "date": 1640610402745,
+  "attributes": [
+    {
+      "trait_type": "Outline",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Grill",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Inner fill",
+      "value": "Black and Gold"
+    },
+    {
+      "trait_type": "Outer fill",
+      "value": "Yellow Pink"
+    }
+  ]
+}

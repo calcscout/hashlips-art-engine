@@ -53,7 +53,7 @@ const baseUri = 'ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q';
 
 const solanaMetadata = {
 	symbol: 'YC',
-	seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
+	seller_fee_basis_points: 100, // Define how much % you want from secondary market sales 1000 = 10%
 	external_url: 'https://www.youtube.com/c/hashlipsnft',
 	creators: [
 		{
@@ -66,7 +66,7 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
 	{
-		growEditionSizeTo: 10,
+		growEditionSizeTo: 1100,
 		layersOrder: [
 			{ name: 'Mouth' },
 			{ name: 'Bong' },
@@ -77,14 +77,14 @@ const layerConfigurations = [
 	},
 ];
 
-const shuffleLayerConfigurations = false;
+const shuffleLayerConfigurations = true;
 
 const debugLogs = false;
 
 const format = {
 	width: 631,
 	height: 631,
-	smoothing: false,
+	smoothing: true,
 };
 
 const gif = {
