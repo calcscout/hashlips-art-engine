@@ -10,6 +10,7 @@ const {
   solanaMetadata,
   collectionName,
   suitingMouthNumbers,
+  collectionFolder,
 } = require(`${basePath}/src/config.js`);
 
 // read json data
@@ -23,11 +24,13 @@ data.forEach((item) => {
     item.creators = solanaMetadata.creators;
     item.collection = collectionName;
     item.apes = suitingMouthNumbers;
+    item.folder = collectionFolder;
   } else {
     item.name = `${namePrefix} #${item.edition}`;
     item.description = description;
     item.image = `${baseUri}/${item.edition}.png`;
     item.apes = suitingMouthNumbers;
+    item.folder = collectionFolder;
   }
   fs.writeFileSync(
     `${basePath}/build/json/${item.edition}.json`,

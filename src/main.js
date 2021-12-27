@@ -137,6 +137,7 @@ const addMetadata = (_dna, _edition) => {
   let dateTime = Date.now();
   let tempMetadata = {
     collection: collectionName,
+    folder: collectionFolder,
     edition: _edition,
     id: `${collectionFolder}-${_edition}`,
     name: `${namePrefix} #${_edition}`,
