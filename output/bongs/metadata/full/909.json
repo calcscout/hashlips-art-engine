@@ -1,0 +1,37 @@
+{
+  "collection": "Bongs",
+  "folder": "bongs",
+  "edition": 909,
+  "id": "bongs-909",
+  "name": "Bong #909",
+  "dna": "625a011522be7dfdf36ba05b7a038d0ea52cd0cb",
+  "description": "Collection of NFT bongs for your Apes",
+  "image": "ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q/909.png",
+  "apes": [
+    1,
+    2
+  ],
+  "date": 1640608011751,
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Bong",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Fill",
+      "value": "Liquid Acid"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Sparkles"
+    },
+    {
+      "trait_type": "Sticker",
+      "value": "Rasta Flag"
+    }
+  ]
+}

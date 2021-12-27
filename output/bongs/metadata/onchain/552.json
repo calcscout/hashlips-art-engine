@@ -1,0 +1,31 @@
+{
+  "collection": "Bongs",
+  "edition": 552,
+  "name": "Bong #552",
+  "dna": "f053799257e5c8495b27500269ee45cc44fa6ac8",
+  "description": "Collection of NFT bongs for your Apes",
+  "image": "ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q/552.png",
+  "date": 1640607942229,
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Bong",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Fill",
+      "value": "Cheatah"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Sticker",
+      "value": "Ftpolice"
+    }
+  ]
+}

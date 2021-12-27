@@ -1,0 +1,31 @@
+{
+  "collection": "Bongs",
+  "edition": 160,
+  "name": "Bong #160",
+  "dna": "fdf8a569759d28d1c97a02870122cf6a7e1ddcd7",
+  "description": "Collection of NFT bongs for your Apes",
+  "image": "ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q/160.png",
+  "date": 1640608016031,
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Bong",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Fill",
+      "value": "Liquid Acid"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Black N White"
+    },
+    {
+      "trait_type": "Sticker",
+      "value": "OG"
+    }
+  ]
+}

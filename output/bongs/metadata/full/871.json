@@ -1,0 +1,37 @@
+{
+  "collection": "Bongs",
+  "folder": "bongs",
+  "edition": 871,
+  "id": "bongs-871",
+  "name": "Bong #871",
+  "dna": "c165396bb50c3c57d3de6d3170890980e12b33aa",
+  "description": "Collection of NFT bongs for your Apes",
+  "image": "ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q/871.png",
+  "apes": [
+    1,
+    2
+  ],
+  "date": 1640607969089,
+  "attributes": [
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Bong",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "Fill",
+      "value": "Turq"
+    },
+    {
+      "trait_type": "Smoke",
+      "value": "Cheetah"
+    },
+    {
+      "trait_type": "Sticker",
+      "value": "Cages"
+    }
+  ]
+}
