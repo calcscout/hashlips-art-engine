@@ -8,6 +8,8 @@ const {
   namePrefix,
   network,
   solanaMetadata,
+  collectionName,
+  suitingMouthNumbers,
 } = require(`${basePath}/src/config.js`);
 
 // read json data
@@ -19,10 +21,13 @@ data.forEach((item) => {
     item.name = `${namePrefix} #${item.edition}`;
     item.description = description;
     item.creators = solanaMetadata.creators;
+    item.collection = collectionName;
+    item.apes = suitingMouthNumbers;
   } else {
     item.name = `${namePrefix} #${item.edition}`;
     item.description = description;
     item.image = `${baseUri}/${item.edition}.png`;
+    item.apes = suitingMouthNumbers;
   }
   fs.writeFileSync(
     `${basePath}/build/json/${item.edition}.json`,
@@ -47,4 +52,8 @@ if (network == NETWORK.sol) {
   console.log(`Updated baseUri for images to ===> ${baseUri}`);
   console.log(`Updated description for images to ===> ${description}`);
   console.log(`Updated name prefix for images to ===> ${namePrefix}`);
+  console.log(`Updated collectio name ===> ${collectionName}`);
+  console.log(
+    `Updated array of fitting ape types to ===> ${suitingMouthNumbers}`
+  );
 }

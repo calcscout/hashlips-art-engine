@@ -5,10 +5,10 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 //AM defined modifications
-const collectionName = "Super Bongs";
-const collectionFolder = "bongs";
-const containRaces = false; //if false, only one race is considered
-const suitingMouthNumbers = [1, 2, 3]; //ignored if there are races
+const collectionName = "Grills";
+const collectionFolder = "grills";
+const containRaces = true; //if false, only one race is considered
+const suitingMouthNumbers = [1, 2, 4]; //ignored if there are races
 
 const mouthNumbers = {
   bored: 1,
@@ -47,8 +47,8 @@ const mouthNumbers = {
 };
 
 // General metadata for Ethereum
-const namePrefix = "Bong";
-const description = "Collection of NFT bongs for your Apes";
+const namePrefix = "Grill";
+const description = "Collection of NFT grills for your Apes";
 const baseUri = "ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q";
 
 const solanaMetadata = {
@@ -67,6 +67,67 @@ const solanaMetadata = {
 const layerConfigurations = [
   {
     growEditionSizeTo: 10,
+    race: "Discomfort",
+    layersOrder: [
+      { name: "Outline" },
+      { name: "Grill" },
+      { name: "Inner fill" },
+      { name: "Outer fill" },
+    ],
+  },
+  {
+    growEditionSizeTo: 20,
+    race: "Dumbfounded",
+    layersOrder: [
+      { name: "Outline" },
+      { name: "Grill" },
+      { name: "Inner fill" },
+      { name: "Outer fill" },
+    ],
+  },
+  {
+    growEditionSizeTo: 30,
+    race: "Grin",
+    layersOrder: [
+      { name: "Outline" },
+      { name: "Grill" },
+      { name: "Inner fill" },
+      { name: "Outer fill" },
+    ],
+  },
+  {
+    growEditionSizeTo: 40,
+    race: "Jovial",
+    layersOrder: [
+      { name: "Outline" },
+      { name: "Grill" },
+      { name: "Inner fill" },
+      { name: "Outer fill" },
+    ],
+  },
+  {
+    growEditionSizeTo: 50,
+    race: "Phoneme Vuh",
+    layersOrder: [
+      { name: "Outline" },
+      { name: "Grill" },
+      { name: "Inner fill" },
+      { name: "Outer fill" },
+    ],
+  },
+  {
+    growEditionSizeTo: 60,
+    race: "Rage",
+    layersOrder: [
+      { name: "Outline" },
+      { name: "Grill" },
+      { name: "Inner fill" },
+      { name: "Outer fill" },
+    ],
+  },
+  {
+    growEditionSizeTo: 70,
+    race: "Small Grin",
     layersOrder: [
       { name: "Outline" },
       { name: "Grill" },
