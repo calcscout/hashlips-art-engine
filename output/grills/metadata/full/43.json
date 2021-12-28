@@ -6,9 +6,12 @@
   "name": "Grill #43",
   "dna": "493fe93896096812fa0ea0f0a6de7a97719f665d",
   "description": "Collection of NFT grills for your Apes",
-  "image": "ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q/43.png",
+  "image": "ipfs://QmaPQZMgudHLZXp3N9GQusmdKkbrXsokVVhY3ZUwvcUjMT/43.png",
   "apes": [
-    0
+    3,
+    20,
+    23,
+    25
   ],
   "date": 1640610384618,
   "attributes": [

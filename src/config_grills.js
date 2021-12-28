@@ -49,7 +49,7 @@ const mouthNumbers = {
 // General metadata for Ethereum
 const namePrefix = 'Grill';
 const description = 'Collection of NFT grills for your Apes';
-const baseUri = 'ipfs://Qma2MZ8ZAsCBqJavCGMYbo14ftgz5hEEihAeNrS5WETE7q';
+const baseUri = 'ipfs://QmaPQZMgudHLZXp3N9GQusmdKkbrXsokVVhY3ZUwvcUjMT';
 
 const solanaMetadata = {
 	symbol: 'YC',
