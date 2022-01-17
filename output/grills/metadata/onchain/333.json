@@ -1,6 +1,9 @@
 {
+  "artist": "Apecessories",
+  "season": "Winter 2022",
   "collection": "Grills",
-  "edition": 333,
+  "pieces": 555,
+  "id": 333,
   "name": "Grill #333",
   "dna": "9ed2636b1bfd2d122bd934a2a0c9b34ef237dd52",
   "description": "Collection of NFT grills for your Apes",
