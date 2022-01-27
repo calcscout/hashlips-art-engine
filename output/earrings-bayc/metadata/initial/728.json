@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 728,
+  "id": "earrings-728",
+  "name": "Earring #728",
+  "dna": "4c57732ca8029a7314af0da3a151173d9e643128",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/728.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303819298,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Moon Cow"
+    }
+  ]
+}

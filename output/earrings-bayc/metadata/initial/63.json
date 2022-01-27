@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 63,
+  "id": "earrings-63",
+  "name": "Earring #63",
+  "dna": "bb114970785386a1acdc4247bb9d2f07bc85fea7",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/63.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303765676,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Lightning Rainbow"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 704,
+  "id": "earrings-704",
+  "name": "Earring #704",
+  "dna": "37d731f3a0e3d723c4cf16c8fa41935554082aa2",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/704.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303817344,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Earth Yellow Dot"
+    }
+  ]
+}

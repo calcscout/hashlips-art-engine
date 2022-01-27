@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 159,
+  "id": "earrings-159",
+  "name": "Earring #159",
+  "dna": "1ae1c9138c32e230eacb32d85e0ab05350bb3eee",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/159.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303773294,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Earth Pink Flame"
+    }
+  ]
+}

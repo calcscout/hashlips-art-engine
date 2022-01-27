@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 129,
+  "id": "earrings-129",
+  "name": "Earring #129",
+  "dna": "08a9d526cd66b29d892f8454ecbc3b2aa8898e0a",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/129.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303770853,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Skull Turquoise"
+    }
+  ]
+}

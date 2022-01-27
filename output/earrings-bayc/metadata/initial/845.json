@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 845,
+  "id": "earrings-845",
+  "name": "Earring #845",
+  "dna": "55b9e4d4504bce7ea98dd74b669442ef3d82f7bb",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/845.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303828677,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Smile Gold"
+    }
+  ]
+}

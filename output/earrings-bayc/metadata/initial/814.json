@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 814,
+  "id": "earrings-814",
+  "name": "Earring #814",
+  "dna": "3cf9caf78be4cb77b12fdd76de56de7e15428b92",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/814.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303826159,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Water Gun Tye Dye"
+    }
+  ]
+}

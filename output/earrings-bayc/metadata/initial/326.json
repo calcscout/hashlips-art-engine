@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 326,
+  "id": "earrings-326",
+  "name": "Earring #326",
+  "dna": "f1e8753ff8e0f18155c643e82770fa5c47be42fa",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/326.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303786800,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Yellow Dot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Smile Sparkle"
+    }
+  ]
+}

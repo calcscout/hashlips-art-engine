@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 694,
+  "id": "earrings-694",
+  "name": "Earring #694",
+  "dna": "13f69d716fa863cf10fbd3ea7e605829fdc03076",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/694.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303816477,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Iced"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Banana Tiger"
+    }
+  ]
+}

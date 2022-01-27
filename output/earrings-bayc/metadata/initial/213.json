@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 213,
+  "id": "earrings-213",
+  "name": "Earring #213",
+  "dna": "4042c760e42eec6dfa7da57a33f3d96da01d7b12",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/213.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303777500,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Tye Dye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Cross Spiral"
+    }
+  ]
+}

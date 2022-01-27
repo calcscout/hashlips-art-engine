@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 679,
+  "id": "earrings-679",
+  "name": "Earring #679",
+  "dna": "fb88ae4af7141d7b31725a096cd1db0c8416a48b",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/679.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303815439,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Sparkle"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Star Turquoise"
+    }
+  ]
+}

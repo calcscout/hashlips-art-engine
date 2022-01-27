@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 480,
+  "id": "earrings-480",
+  "name": "Earring #480",
+  "dna": "2f74fdaf94df1a637243b697b17ec295ec7d8111",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/480.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303799287,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Iced"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Switch Blade Rasta"
+    }
+  ]
+}

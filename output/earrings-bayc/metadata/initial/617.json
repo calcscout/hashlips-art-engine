@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 617,
+  "id": "earrings-617",
+  "name": "Earring #617",
+  "dna": "cb69f62cdf9472fb70a1eae5a83ba90a8da331af",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/617.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303810845,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Smile Tye Dye"
+    }
+  ]
+}

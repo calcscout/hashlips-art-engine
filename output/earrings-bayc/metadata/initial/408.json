@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 408,
+  "id": "earrings-408",
+  "name": "Earring #408",
+  "dna": "082ce3620b9549b6e6ff3285c7dabeb4131da0ea",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/408.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303793527,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Star Rasta"
+    }
+  ]
+}

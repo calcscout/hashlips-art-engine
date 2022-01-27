@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 920,
+  "id": "earrings-920",
+  "name": "Earring #920",
+  "dna": "2ae30c1bb371cf5443fdb9ef9bf53b8f9bc9a0a3",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/920.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303834772,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Smile Yellow Zebra"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 5,
+  "id": "earrings-5",
+  "name": "Earring #5",
+  "dna": "c2ac7b06d5b4408ca796dc7a66a5c76e56cbc8b0",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/5.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303760210,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Tye Dye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Cross Cow"
+    }
+  ]
+}

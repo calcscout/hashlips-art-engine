@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 745,
+  "id": "earrings-745",
+  "name": "Earring #745",
+  "dna": "a881c13eee0402f3316ac326794b16274d3c64b2",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/745.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303820692,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Moon Yellow Dots"
+    }
+  ]
+}

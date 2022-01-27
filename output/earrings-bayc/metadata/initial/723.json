@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 723,
+  "id": "earrings-723",
+  "name": "Earring #723",
+  "dna": "e44cb11cd427b98f1809ddb38d21a9f4a9d26047",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/723.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303818965,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Banana Turquiose"
+    }
+  ]
+}

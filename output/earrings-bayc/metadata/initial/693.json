@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 693,
+  "id": "earrings-693",
+  "name": "Earring #693",
+  "dna": "231cc63c56cddc9d3e29fdb0a4c14bfa035b9b31",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/693.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303816403,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Yellow Dot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Earth Spiral"
+    }
+  ]
+}

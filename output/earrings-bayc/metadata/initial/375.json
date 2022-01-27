@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 375,
+  "id": "earrings-375",
+  "name": "Earring #375",
+  "dna": "b898a3912565dc7509d69c3c2a8c89d427a818d4",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/375.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303790836,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Sparkle"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Lightning Yellow Print"
+    }
+  ]
+}

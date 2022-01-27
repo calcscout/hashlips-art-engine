@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 805,
+  "id": "earrings-805",
+  "name": "Earring #805",
+  "dna": "9d69620233bab3aba632f0b81a3d9c1a9d65b7ef",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/805.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303825401,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Star Spiral"
+    }
+  ]
+}

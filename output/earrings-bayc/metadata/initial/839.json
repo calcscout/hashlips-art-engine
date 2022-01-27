@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 839,
+  "id": "earrings-839",
+  "name": "Earring #839",
+  "dna": "f928244b21ea9f159501cf72499afd0ef79e4a02",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/839.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303828119,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Water Gun Spiral"
+    }
+  ]
+}

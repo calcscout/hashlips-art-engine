@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 753,
+  "id": "earrings-753",
+  "name": "Earring #753",
+  "dna": "ae0785bf7fe5bf187ba0d6e9edcb7a0f1b891f7f",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/753.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303821392,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Moon Gold"
+    }
+  ]
+}

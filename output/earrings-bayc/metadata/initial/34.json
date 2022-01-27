@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 34,
+  "id": "earrings-34",
+  "name": "Earring #34",
+  "dna": "7e3bd483d9a3cfd5045a121132bfc42023393f08",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/34.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303762905,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Sparkle"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Cross Rainbow"
+    }
+  ]
+}

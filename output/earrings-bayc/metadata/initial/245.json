@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 245,
+  "id": "earrings-245",
+  "name": "Earring #245",
+  "dna": "8bfe1002112123e98404947d7f8a6eb193f50ce6",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/245.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303780208,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Tye Dye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Switch Blade Yellow Dot"
+    }
+  ]
+}

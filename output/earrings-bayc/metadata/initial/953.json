@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 953,
+  "id": "earrings-953",
+  "name": "Earring #953",
+  "dna": "4059d4ea5c5a77de54c5b1c0f4c33e0d2b4aa05c",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/953.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303837621,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Switch Blade Tiger"
+    }
+  ]
+}

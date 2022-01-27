@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 868,
+  "id": "earrings-868",
+  "name": "Earring #868",
+  "dna": "1fea44452cd47fde77dc15fb1d2be6a933f13dea",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/868.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303830356,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Star Yellow Dots"
+    }
+  ]
+}

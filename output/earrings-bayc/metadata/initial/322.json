@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 322,
+  "id": "earrings-322",
+  "name": "Earring #322",
+  "dna": "c2369dcf394095ef5dc0025e0942ff258a4a62a2",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/322.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303786487,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Cross Tiger"
+    }
+  ]
+}

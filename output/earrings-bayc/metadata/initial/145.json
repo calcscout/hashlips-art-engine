@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 145,
+  "id": "earrings-145",
+  "name": "Earring #145",
+  "dna": "cc8faf58f9bb04237f6d5ddb752843a7085790ec",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/145.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303772269,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Iced"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Moon Tye Dye"
+    }
+  ]
+}

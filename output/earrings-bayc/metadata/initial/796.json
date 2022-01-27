@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 796,
+  "id": "earrings-796",
+  "name": "Earring #796",
+  "dna": "e72f63fb46e9288113deb2fa7daf5db2f8bf6b01",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/796.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303824629,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Banana Sparkle"
+    }
+  ]
+}

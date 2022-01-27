@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 137,
+  "id": "earrings-137",
+  "name": "Earring #137",
+  "dna": "1999a5e8857e9cb9c8ff515d7ee71e8d2c1c3a55",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/137.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303771589,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Sparkle"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Star Tiger"
+    }
+  ]
+}

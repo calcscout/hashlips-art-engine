@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 232,
+  "id": "earrings-232",
+  "name": "Earring #232",
+  "dna": "90a6f39ce6ea05dbabfffdfadfd0bf231f7d793d",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/232.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303779137,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Cross Spiral"
+    }
+  ]
+}

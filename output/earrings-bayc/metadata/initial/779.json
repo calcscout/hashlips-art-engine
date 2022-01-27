@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 779,
+  "id": "earrings-779",
+  "name": "Earring #779",
+  "dna": "eef55c7bad8d761d7b37bdc3fb018bcbb7a8cf15",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/779.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303823273,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Iced"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Lightning Rainbow"
+    }
+  ]
+}

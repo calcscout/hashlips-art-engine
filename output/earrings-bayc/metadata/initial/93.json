@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 93,
+  "id": "earrings-93",
+  "name": "Earring #93",
+  "dna": "0eaacafdfa82e61df6d537f201b2bd0693b8e1ff",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/93.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303768214,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Iced"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Banana Turquiose"
+    }
+  ]
+}
