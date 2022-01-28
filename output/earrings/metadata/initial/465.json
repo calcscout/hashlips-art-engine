@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 465,
+  "id": "earrings-465",
+  "name": "Earring #465",
+  "dna": "6b5466f1791f5b84a72ad00fe11afb8ffe2ffeaa",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/465.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303798140,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Lightning Spiral"
+    }
+  ]
+}

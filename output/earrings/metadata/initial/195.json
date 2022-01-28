@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 195,
+  "id": "earrings-195",
+  "name": "Earring #195",
+  "dna": "6c75becfbb4d81bfd4bd914f1fe69f543bf3d2e8",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/195.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303776198,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Earth Iced"
+    }
+  ]
+}

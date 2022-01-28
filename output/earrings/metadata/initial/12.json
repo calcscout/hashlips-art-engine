@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 12,
+  "id": "earrings-12",
+  "name": "Earring #12",
+  "dna": "cb5d36c29ed44b115e0a469bbe8cde6bc8240133",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/12.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303760836,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Banana Yellow Print"
+    }
+  ]
+}

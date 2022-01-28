@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 820,
+  "id": "earrings-820",
+  "name": "Earring #820",
+  "dna": "386ceaf1c6bd6e71fbaf88f00ef5cb4f12f829d1",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/820.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303826584,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Sparkle"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Lightning Rasta"
+    }
+  ]
+}

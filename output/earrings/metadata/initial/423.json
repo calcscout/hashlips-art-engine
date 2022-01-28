@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 423,
+  "id": "earrings-423",
+  "name": "Earring #423",
+  "dna": "33bf078df1d258f1b51bd0f8c813a8bd2d1a2405",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/423.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303794649,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Iced"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Skull Tiger"
+    }
+  ]
+}

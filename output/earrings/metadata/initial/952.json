@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 952,
+  "id": "earrings-952",
+  "name": "Earring #952",
+  "dna": "aaf33b970a7e22970cb05045ff4e4c93ce42e184",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/952.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303837552,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Switch Blade Sparkle"
+    }
+  ]
+}

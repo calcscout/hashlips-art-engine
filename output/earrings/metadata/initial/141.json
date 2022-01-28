@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 141,
+  "id": "earrings-141",
+  "name": "Earring #141",
+  "dna": "cb8e57ba33a7ecd9ed3888f8202b87b6696bbe8c",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/141.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303771984,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Smile Iced"
+    }
+  ]
+}

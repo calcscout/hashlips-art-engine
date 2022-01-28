@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 976,
+  "id": "earrings-976",
+  "name": "Earring #976",
+  "dna": "6f5e854f889ce8a14fbb6c171b5e9138b8fb4dcd",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/976.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303839787,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Yellow Dot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Water Gun Sparkle"
+    }
+  ]
+}

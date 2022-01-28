@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 72,
+  "id": "earrings-72",
+  "name": "Earring #72",
+  "dna": "4fa79787ed2c1e9c8773312e4ceaa2d3fcf8e2c0",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/72.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303766326,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Yellow Dot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Water Gun Rasta"
+    }
+  ]
+}

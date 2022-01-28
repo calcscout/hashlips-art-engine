@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 14,
+  "id": "earrings-14",
+  "name": "Earring #14",
+  "dna": "979e273b42022b7e6c6d2e107548a88ddc6d23d5",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/14.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303761062,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Switch Blade Spiral"
+    }
+  ]
+}

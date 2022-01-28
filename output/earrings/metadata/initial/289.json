@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 289,
+  "id": "earrings-289",
+  "name": "Earring #289",
+  "dna": "f3b0860ee2a8f5a9c8f02f977ebb10d83a94eb52",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/289.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303783739,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Tye Dye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Lightning Cow"
+    }
+  ]
+}

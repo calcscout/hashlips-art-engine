@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 57,
+  "id": "earrings-57",
+  "name": "Earring #57",
+  "dna": "1f3e31347eda2c3ca99dcf0f981322715268409b",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/57.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303765171,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Switch Blade Tye Dye"
+    }
+  ]
+}

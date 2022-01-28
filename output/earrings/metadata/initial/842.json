@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 842,
+  "id": "earrings-842",
+  "name": "Earring #842",
+  "dna": "6ae0c3e1a5d3fd1f790b68b009355037b0651f8e",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/842.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303828374,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Skull Rainbow"
+    }
+  ]
+}

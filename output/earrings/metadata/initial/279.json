@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 279,
+  "id": "earrings-279",
+  "name": "Earring #279",
+  "dna": "8e944da0d1ec4ed78584d2584a21d5fce1eeef96",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/279.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303783005,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Star Spiral"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 239,
+  "id": "earrings-239",
+  "name": "Earring #239",
+  "dna": "db6d37c0548190f792295adb5ff70f54c1d98aeb",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/239.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303779760,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Cross Yellow Dots"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 208,
+  "id": "earrings-208",
+  "name": "Earring #208",
+  "dna": "16f6a24cdc94d0c8c0ae44c85344208a2b3ae4f8",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/208.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303777146,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Moon Iced"
+    }
+  ]
+}

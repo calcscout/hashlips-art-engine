@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 815,
+  "id": "earrings-815",
+  "name": "Earring #815",
+  "dna": "61187b3f9d59e9c5a16e79f9dd304cbcaa4d9f83",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/815.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303826220,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Skull Gold"
+    }
+  ]
+}

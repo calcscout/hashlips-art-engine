@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 311,
+  "id": "earrings-311",
+  "name": "Earring #311",
+  "dna": "5d56e09e37097bcbd3c3c682d86b78245c703aae",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/311.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303785556,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Iced"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Skull Tye Dye"
+    }
+  ]
+}

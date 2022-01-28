@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 680,
+  "id": "earrings-680",
+  "name": "Earring #680",
+  "dna": "b255b760aa32f7bd8972387a4524eec7c64a2cee",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/680.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303815506,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Iced"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Switch Blade Turquoise"
+    }
+  ]
+}

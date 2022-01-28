@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 581,
+  "id": "earrings-581",
+  "name": "Earring #581",
+  "dna": "c1e53a5535db02373bbcfcf6fa2bf7df5a2b025d",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/581.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303807852,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Iced"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Moon Sparkle"
+    }
+  ]
+}

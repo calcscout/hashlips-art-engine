@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 930,
+  "id": "earrings-930",
+  "name": "Earring #930",
+  "dna": "b91dff1a4f5ee8d0a18183d9f589edd2e2722874",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/930.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303835719,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Star Sparkle"
+    }
+  ]
+}

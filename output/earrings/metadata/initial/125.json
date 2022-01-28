@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 125,
+  "id": "earrings-125",
+  "name": "Earring #125",
+  "dna": "cdba5d5c10a65c0fbaaa27b86c64bbe37081598e",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/125.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303770531,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Iced"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Star Sparkle"
+    }
+  ]
+}

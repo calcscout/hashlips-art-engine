@@ -1,0 +1,30 @@
+{
+  "collection": "OG Earrings",
+  "folder": "earrings",
+  "edition": 398,
+  "id": "earrings-398",
+  "name": "Earring #398",
+  "dna": "929a86c0117b8a2fd818d9bc4cd6393b80bdc281",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/398.png",
+  "apes": [
+    1
+  ],
+  "date": 1643303792639,
+  "artist": "Apecessories",
+  "year": 2022,
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Skull Tye Dye"
+    }
+  ]
+}
