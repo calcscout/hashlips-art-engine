@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 const collectionName = 'OG Earrings';
 const collectionFolder = 'earrings';
 const containRaces = false; //if false, only one race is considered
-const suitingMouthNumbers = [1]; //ignored if there are races
+const suitingMouthNumbers = [0]; //zero means that is suits to all apes
 
 const mouthNumbers = {
 	bored: 1,
