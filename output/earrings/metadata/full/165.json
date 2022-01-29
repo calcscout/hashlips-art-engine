@@ -1,18 +1,33 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 165,
   "total_issued": 1000,
   "name": "OG Earring #165",
-  "dna": "f144872707d387e80ad27410d8afaee9f21b54c2",
+  "hash": "6a17fde8a95bfc8f8604b7ec8f99a67724223906ebe66b5e92ef942b1933044c",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/165.png",
   "date_generation": 1643303773735,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Tye Dye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Water Gun"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Rainbow"
+    }
+  ],
   "collectionPath": "earrings",
   "fittingApeCollections": [
     "bayc"

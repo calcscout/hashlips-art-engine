@@ -1,18 +1,33 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 198,
   "total_issued": 1000,
   "name": "OG Earring #198",
-  "dna": "0b360de2ca34ca3cd6134d737cf202f793f93f03",
+  "hash": "81b69a4a03f6e642577ab086a4ee6fd1356fb2dca81b569d19d5d67bf072adee",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/198.png",
   "date_generation": 1643303776427,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Cross"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Iced"
+    }
+  ],
   "collectionPath": "earrings",
   "fittingApeCollections": [
     "bayc"

@@ -1,18 +1,33 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 323,
   "total_issued": 1000,
   "name": "OG Earring #323",
-  "dna": "ad5daa030db0e9f1dc444b0dd90bdb26602f98fa",
+  "hash": "10dca4b1810cc382ef107f021e8441ace7ec04db8ed28e85985235bb83bbe790",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/323.png",
   "date_generation": 1643303786582,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Tiger"
+    }
+  ],
   "collectionPath": "earrings",
   "fittingApeCollections": [
     "bayc"

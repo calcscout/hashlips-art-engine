@@ -1,16 +1,31 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 155,
   "total_issued": 1000,
   "name": "OG Earring #155",
-  "dna": "15b4ee974930726f1ed374d013e29621b41fed5f",
+  "hash": "d19dfcf1cf6090f524e63f7d4a63075e25701bb5e64a2c1737b7be27f56b83e4",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/155.png",
   "date_generation": 1643303773021,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
-  "productionLab": "web4 OG"
+  "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Yellow Dot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Rainbow"
+    }
+  ]
 }

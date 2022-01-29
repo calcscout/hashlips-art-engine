@@ -1,16 +1,31 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 700,
   "total_issued": 1000,
   "name": "OG Earring #700",
-  "dna": "5f66d70f57efe5ce46d58c6f91bf2b65a59294cd",
+  "hash": "a87d4bd4d8e860ab728d8e931b7e77e897c6f25afcc017693ef6adc4fbf90dc2",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/700.png",
   "date_generation": 1643303816958,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
-  "productionLab": "web4 OG"
+  "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Tiger"
+    }
+  ]
 }

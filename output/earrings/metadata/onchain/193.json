@@ -1,16 +1,31 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 193,
   "total_issued": 1000,
   "name": "OG Earring #193",
-  "dna": "b6f61afcdf41a861858c45cb5851d5a474e8753f",
+  "hash": "874f0607a577d90b9bae28c7159d2065d15aa897525ebc0967cb9ee24e339cc8",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/193.png",
   "date_generation": 1643303776052,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
-  "productionLab": "web4 OG"
+  "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Tye Dye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Star"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Turquoise"
+    }
+  ]
 }

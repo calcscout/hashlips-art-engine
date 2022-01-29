@@ -1,16 +1,31 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 894,
   "total_issued": 1000,
   "name": "OG Earring #894",
-  "dna": "ebaa6a9ab88e4ef26c82de96908c703fa6280f58",
+  "hash": "63b1d6d83ee6bc735493139d331cd360805f5bf4ffad8146c5429771021fac94",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/894.png",
   "date_generation": 1643303832796,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
-  "productionLab": "web4 OG"
+  "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Sparkle"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Water Gun"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Gold"
+    }
+  ]
 }

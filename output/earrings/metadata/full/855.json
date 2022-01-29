@@ -1,18 +1,33 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 855,
   "total_issued": 1000,
   "name": "OG Earring #855",
-  "dna": "cb497fe9b25dd83a7d259e8fd1c3beaba447145b",
+  "hash": "09cafb45fc2af65536789097b6c380c238cec624d33a2c0f36e10a52db2617a8",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/855.png",
   "date_generation": 1643303829365,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Spiral"
+    }
+  ],
   "collectionPath": "earrings",
   "fittingApeCollections": [
     "bayc"

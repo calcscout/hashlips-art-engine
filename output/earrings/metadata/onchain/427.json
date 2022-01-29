@@ -1,16 +1,31 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 427,
   "total_issued": 1000,
   "name": "OG Earring #427",
-  "dna": "e8160c447f5d6a59e6ff0534b417ddf90ebee225",
+  "hash": "3a0c7cf3d893a7cd15fefe26d981aba0c3091426742d63df55acdd981b37f564",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/427.png",
   "date_generation": 1643303794943,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
-  "productionLab": "web4 OG"
+  "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Tye Dye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Tye Dye"
+    }
+  ]
 }

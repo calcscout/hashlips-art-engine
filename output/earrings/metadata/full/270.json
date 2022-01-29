@@ -1,18 +1,33 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 270,
   "total_issued": 1000,
   "name": "OG Earring #270",
-  "dna": "4dcea7148e3af5b07088896f4b0432c804dd3a06",
+  "hash": "4e23c7ec6be51f6a783889d8a8f14edd2d58ce34fe57c2c24456e89fbbe6d5aa",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/270.png",
   "date_generation": 1643303782197,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Yellow Dot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Switch"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Blade Turquoise"
+    }
+  ],
   "collectionPath": "earrings",
   "fittingApeCollections": [
     "bayc"

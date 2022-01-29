@@ -1,18 +1,33 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 207,
   "total_issued": 1000,
   "name": "OG Earring #207",
-  "dna": "55c88981c94643299a4caeb18e1594db9a90e94a",
+  "hash": "36c06d78d0d961df56bba3ce9214488ff7afb7e8b03345893c283869c816f441",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/207.png",
   "date_generation": 1643303777076,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Sparkle"
+    }
+  ],
   "collectionPath": "earrings",
   "fittingApeCollections": [
     "bayc"

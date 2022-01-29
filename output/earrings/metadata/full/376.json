@@ -1,18 +1,33 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 376,
   "total_issued": 1000,
   "name": "OG Earring #376",
-  "dna": "e6d23faa9790eb411ed8225695a7199ca1ec4744",
+  "hash": "4392a73950cd6f770911e2f08e75127c1f9c866a5575d7d89d5cb49c5205994c",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/376.png",
   "date_generation": 1643303790918,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Tye Dye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Cross"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Rainbow"
+    }
+  ],
   "collectionPath": "earrings",
   "fittingApeCollections": [
     "bayc"

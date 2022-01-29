@@ -1,18 +1,33 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 195,
   "total_issued": 1000,
   "name": "OG Earring #195",
-  "dna": "6c75becfbb4d81bfd4bd914f1fe69f543bf3d2e8",
+  "hash": "49a2d3e9bfe45617971a09274b950125e39cb7000679025e8d8042b190594853",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/195.png",
   "date_generation": 1643303776198,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Iced"
+    }
+  ],
   "collectionPath": "earrings",
   "fittingApeCollections": [
     "bayc"

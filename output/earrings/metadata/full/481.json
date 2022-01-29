@@ -1,18 +1,33 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 481,
   "total_issued": 1000,
   "name": "OG Earring #481",
-  "dna": "79dedf0905415c8cfc52ca303ac0ea88448ed0bc",
+  "hash": "62e527a344c4cf7c7361cd9269855a1a0898f040d58df096aeba6669ac64ca4d",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/481.png",
   "date_generation": 1643303799362,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Tye Dye"
+    }
+  ],
   "collectionPath": "earrings",
   "fittingApeCollections": [
     "bayc"

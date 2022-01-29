@@ -1,16 +1,31 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 415,
   "total_issued": 1000,
   "name": "OG Earring #415",
-  "dna": "1f2e84a63475a6e2179c8f08562d42441e94d156",
+  "hash": "83e28f8680e5b9d0142b459efd4a3cbc0b28abdfff2bf2cc6ff07ac3904e9299",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/415.png",
   "date_generation": 1643303794051,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
-  "productionLab": "web4 OG"
+  "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Tye Dye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Switch"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Blade Turquoise"
+    }
+  ]
 }

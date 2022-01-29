@@ -1,16 +1,31 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 991,
   "total_issued": 1000,
   "name": "OG Earring #991",
-  "dna": "6b72348f17a507f61ae5797e6f5d8b28b9d51aa9",
+  "hash": "aef46c3c0027b156fd55b2143834ee6b81325bd20af120a99688a6876079a9b2",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/991.png",
   "date_generation": 1643303841043,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
-  "productionLab": "web4 OG"
+  "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Star"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Iced"
+    }
+  ]
 }

@@ -1,16 +1,31 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 710,
   "total_issued": 1000,
   "name": "OG Earring #710",
-  "dna": "c435c7d8df31adf2b9878a8b9b71fb8d2cc2b446",
+  "hash": "400510dec189b94254cd7e14dba9e1038571e2879abfab18cfaad1d14ee5457e",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/710.png",
   "date_generation": 1643303817925,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
-  "productionLab": "web4 OG"
+  "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "White"
+    }
+  ]
 }

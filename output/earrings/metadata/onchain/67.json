@@ -1,16 +1,31 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 67,
   "total_issued": 1000,
   "name": "OG Earring #67",
-  "dna": "d74c927fd1ceae37d0dce5ce0e00afb11ef977f3",
+  "hash": "01702e0038cfbce8f9e510a8e4c523cd324b63627cd94735d25df98d6ead64fc",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/67.png",
   "date_generation": 1643303765978,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
-  "productionLab": "web4 OG"
+  "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Switch"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Blade Turquoise"
+    }
+  ]
 }

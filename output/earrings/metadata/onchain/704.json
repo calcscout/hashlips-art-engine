@@ -1,16 +1,31 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 704,
   "total_issued": 1000,
   "name": "OG Earring #704",
-  "dna": "37d731f3a0e3d723c4cf16c8fa41935554082aa2",
+  "hash": "75ec649f96f1e64478edb0f70a4a4e816870281632676f67f3a30199c5f6dde0",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/704.png",
   "date_generation": 1643303817344,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
-  "productionLab": "web4 OG"
+  "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Yellow Dot"
+    }
+  ]
 }

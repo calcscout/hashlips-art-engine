@@ -1,16 +1,31 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 874,
   "total_issued": 1000,
   "name": "OG Earring #874",
-  "dna": "ded1c23b963d5bd86b1901bcfa1190038c296479",
+  "hash": "2a4abd74d58756499f2c07c59140dcd09052aababcd45104c33b7cc01a39b0be",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/874.png",
   "date_generation": 1643303830787,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
-  "productionLab": "web4 OG"
+  "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Cow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Rasta"
+    }
+  ]
 }

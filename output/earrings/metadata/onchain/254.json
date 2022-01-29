@@ -1,16 +1,31 @@
 {
   "collection": "OG Earrings",
+  "artist": "Apecessories",
   "id": 254,
   "total_issued": 1000,
   "name": "OG Earring #254",
-  "dna": "af57d2ab855d77c199d519db0702500313a2e9d4",
+  "hash": "80bcd91bd67bc6c25978cfe8b9248efc699c6c7a4c6864cd912204f0b94f006c",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/254.png",
   "date_generation": 1643303780854,
-  "date_market": "February 2022",
+  "date_in_store": "February 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
-  "productionLab": "web4 OG"
+  "productionLab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Tye Dye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Water Gun"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Pink Fire"
+    }
+  ]
 }

@@ -3,6 +3,7 @@ const crypto = require('crypto');
 const fs = require('fs');
 const { readFile } = require('fs/promises');
 const { hashFromFile } = require('./hashGenerator');
+const { splitterFunction } = require('./splitterFunction');
 
 // read initial metadata
 let rawdata = fs.readFileSync(`../metadata/initial/_metadata.json`);
@@ -41,6 +42,7 @@ const generateOnchainMetadataObject = async (_initialMetadataObject) => {
 
 	return {
 		collection,
+		artist,
 		id: _initialMetadataObject.edition,
 		total_issued: totalIssued,
 		name: `${namePrefix}${_initialMetadataObject.edition}`,
@@ -52,6 +54,10 @@ const generateOnchainMetadataObject = async (_initialMetadataObject) => {
 		date_in_store: productionDate,
 		info,
 		productionLab,
+		attributes: [
+			_initialMetadataObject.attributes[0],
+			...splitterFunction(_initialMetadataObject.attributes[1].value),
+		],
 	};
 };
 
