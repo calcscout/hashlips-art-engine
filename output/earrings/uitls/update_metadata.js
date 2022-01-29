@@ -1,5 +1,8 @@
 const basePath = process.cwd();
+const crypto = require('crypto');
 const fs = require('fs');
+const { readFile } = require('fs/promises');
+const { hashFromFile } = require('./hashGenerator');
 
 // read initial metadata
 let rawdata = fs.readFileSync(`../metadata/initial/_metadata.json`);
@@ -8,11 +11,11 @@ let initialMedatada = JSON.parse(rawdata);
 const option = {
 	onchain: 'onchain', //updated based on initial metadata
 	full: 'full', //updated based on initial metadata
-	initial: 'initial',
+	// initial: 'initial',
 };
 
 //Please choose your update option
-const updateOption = option.onchain;
+const updateOption = process.argv[2] ? process.argv[2] : option.onchain;
 
 //data for onchain metadata
 const collection = 'OG Earrings';
@@ -31,24 +34,39 @@ const fittingApes = [0]; // zero if it fits all apes
 
 //shape of onchain metadata object
 
-const generateOnchainMetadataObject = (_initialMetadataObject) => {
+const generateOnchainMetadataObject = async (_initialMetadataObject) => {
+	const hash = await hashFromFile(
+		`../img/${_initialMetadataObject.edition}.png`
+	);
+
 	return {
 		collection,
 		id: _initialMetadataObject.edition,
 		total_issued: totalIssued,
 		name: `${namePrefix}${_initialMetadataObject.edition}`,
-		dna: _initialMetadataObject.dna,
+		// dna: _initialMetadataObject.dna,
+		hash,
 		description,
 		image: _initialMetadataObject.image,
 		date_generation: _initialMetadataObject.date,
-		date_market: productionDate,
+		date_in_store: productionDate,
 		info,
 		productionLab,
 	};
 };
 
-const generateFullMetadataObject = (_initialMetadataObject) => {
-	const onChainMetadata = generateOnchainMetadataObject(_initialMetadataObject);
+// const generate = async () => {
+// 	const iterations = initialMetadataObject.length;
+// 	for (let i = 0; i < iterations; i++) {
+// 		const metadata = await generateOnchainMetadataObject(initialMedatada[i]);
+// 		fs.writeFileSync(`./Test/${i}.json`, JSON.stringify(metadata, null, 2));
+// 	}
+// };
+
+const generateFullMetadataObject = async (_initialMetadataObject) => {
+	const onChainMetadata = await generateOnchainMetadataObject(
+		_initialMetadataObject
+	);
 	return {
 		...onChainMetadata,
 		collectionPath,
@@ -57,23 +75,26 @@ const generateFullMetadataObject = (_initialMetadataObject) => {
 	};
 };
 
-let resultingMetadataArray = [];
+const generate = async (_initialMedatada) => {
+	let resultingMetadataArray = [];
 
-initialMedatada.forEach((item) => {
-	let resultingMetadataObject;
+	for (let i = 0; i < initialMedatada.length; i++) {
+		const item = _initialMedatada[i];
+		const resultingMetadataObject =
+			updateOption === option.onchain
+				? await generateOnchainMetadataObject(item)
+				: await generateFullMetadataObject(item);
+		fs.writeFileSync(
+			`../metadata/${updateOption}/${item.edition}.json`,
+			JSON.stringify(resultingMetadataObject, null, 2)
+		);
+		resultingMetadataArray.push(resultingMetadataObject);
+	}
 
-	resultingMetadataObject =
-		updateOption === option.onchain
-			? generateOnchainMetadataObject(item)
-			: generateFullMetadataObject(item);
 	fs.writeFileSync(
-		`../metadata/${updateOption}/${item.edition}.json`,
-		JSON.stringify(resultingMetadataObject, null, 2)
+		`../metadata/${updateOption}/_metadata.json`,
+		JSON.stringify(resultingMetadataArray, null, 2)
 	);
-	resultingMetadataArray.push(resultingMetadataObject);
-});
+};
 
-fs.writeFileSync(
-	`../metadata/${updateOption}/_metadata.json`,
-	JSON.stringify(resultingMetadataArray, null, 2)
-);
+generate(initialMedatada);

@@ -1,0 +1,23 @@
+{
+  "collection": "OG Earrings",
+  "id": 175,
+  "total_issued": 1000,
+  "name": "OG Earring #175",
+  "dna": "83ed76bf785b947adc7756bc69e8d9cd4a5746c6",
+  "description": "Collection of OG Earrings for your Apes",
+  "image": "ipfs://QmZVzDfSWLpccLCMLwqzaASo15PPEmZs6GNTWKMm8Z2Dpt/175.png",
+  "date_generation": 1643303774513,
+  "date_market": "February 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "productionLab": "web4 OG",
+  "collectionPath": "earrings",
+  "fittingApeCollections": [
+    "bayc"
+  ],
+  "fittingApes": [
+    0
+  ]
+}
