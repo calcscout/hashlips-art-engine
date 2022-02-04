@@ -24,8 +24,8 @@ const namePrefix = 'OG Earring #';
 const description = 'Collection of OG Earrings for your Apes';
 const totalIssued = 1000;
 const artist = 'Apecessories';
-const productionLab = 'web4OG';
-const productionDate = 'February 2022';
+const productionLab = 'web4 OG';
+const productionDate = 'Feb 2022';
 const info = ['https://apecessories.com', 'https://apecessories.store'];
 
 //data for full metadata (in addition to onchain fields)
