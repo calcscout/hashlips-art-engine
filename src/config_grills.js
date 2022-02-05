@@ -66,7 +66,7 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
 	{
-		growEditionSizeTo: 600,
+		growEditionSizeTo: 300,
 		race: 'Grin',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -76,7 +76,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 900,
+		growEditionSizeTo: 400,
 		race: 'Dumbfounded',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -86,7 +86,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 1100,
+		growEditionSizeTo: 500,
 		race: 'Phoneme Vuh',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -96,7 +96,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 1300,
+		growEditionSizeTo: 600,
 		race: 'Jovial',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -106,7 +106,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 1500,
+		growEditionSizeTo: 700,
 		race: 'Small Grin',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -116,7 +116,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 1700,
+		growEditionSizeTo: 780,
 		race: 'Rage',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -126,7 +126,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 1900,
+		growEditionSizeTo: 850,
 		race: 'Phoneme L',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -136,7 +136,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 2100,
+		growEditionSizeTo: 930,
 		race: 'Phoneme Oh',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -146,7 +146,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 2300,
+		growEditionSizeTo: 1000,
 		race: 'Discomfort',
 		layersOrder: [
 			{ name: 'Outline' },

@@ -136,6 +136,7 @@ dist
 # TernJS port file
 
 .tern-port
+build
 
 # OSX
 

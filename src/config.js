@@ -1,5 +1,5 @@
 //here you define which config to use
-const configToUse = './config_earrings_bayc';
+const configToUse = './config_grills';
 
 const {
 	format,
