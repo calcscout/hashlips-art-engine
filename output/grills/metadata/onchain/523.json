@@ -1,0 +1,35 @@
+{
+  "collection": "OG Grills",
+  "artist": "Apecessories",
+  "id": 523,
+  "total_issued": 1000,
+  "name": "OG Grill #523",
+  "hash": "df072573fade494406554647ce045db88546007f630ca7451ccb0b06dfeb9b89",
+  "description": "Collection of OG Grills for your Apes",
+  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/523.png",
+  "date_generation": 1644047776527,
+  "date_in_store": "Feb 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Outline",
+      "value": "Discomfort"
+    },
+    {
+      "trait_type": "Grill",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Inner fill",
+      "value": "Weed"
+    },
+    {
+      "trait_type": "Outer fill",
+      "value": "Gold"
+    }
+  ]
+}

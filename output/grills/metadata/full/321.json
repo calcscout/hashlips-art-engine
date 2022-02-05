@@ -1,0 +1,42 @@
+{
+  "collection": "OG Grills",
+  "artist": "Apecessories",
+  "id": 321,
+  "total_issued": 1000,
+  "name": "OG Grill #321",
+  "hash": "6b5a1a015712ee6a9527e4d2c21aa955faeaed9d1db44c10e7c5d210d6da043b",
+  "description": "Collection of OG Grills for your Apes",
+  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/321.png",
+  "date_generation": 1644047728929,
+  "date_in_store": "Feb 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Outline",
+      "value": "Dumbfounded"
+    },
+    {
+      "trait_type": "Grill",
+      "value": "Sparkle"
+    },
+    {
+      "trait_type": "Inner fill",
+      "value": "Cross"
+    },
+    {
+      "trait_type": "Outer fill",
+      "value": "Tiger"
+    }
+  ],
+  "collectionPath": "grills",
+  "fittingApeCollections": [
+    "bayc"
+  ],
+  "fittingApes": [
+    5
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "collection": "OG Grills",
+  "artist": "Apecessories",
+  "id": 104,
+  "total_issued": 1000,
+  "name": "OG Grill #104",
+  "hash": "4dd04225651578246ca6824d480025430c8b4727eb6ec5631025ca3851f5f068",
+  "description": "Collection of OG Grills for your Apes",
+  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/104.png",
+  "date_generation": 1644047698347,
+  "date_in_store": "Feb 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Outline",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Grill",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Inner fill",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Outer fill",
+      "value": "Banana"
+    }
+  ],
+  "collectionPath": "grills",
+  "fittingApeCollections": [
+    "bayc"
+  ],
+  "fittingApes": [
+    3,
+    20,
+    23,
+    25
+  ]
+}

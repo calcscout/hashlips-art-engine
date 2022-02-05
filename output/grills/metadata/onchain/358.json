@@ -1,0 +1,35 @@
+{
+  "collection": "OG Grills",
+  "artist": "Apecessories",
+  "id": 358,
+  "total_issued": 1000,
+  "name": "OG Grill #358",
+  "hash": "f9db4c43cd76b5b7abc0998914760cf87e8166b2219f63ba0a15c9a7a355c79e",
+  "description": "Collection of OG Grills for your Apes",
+  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/358.png",
+  "date_generation": 1644047709298,
+  "date_in_store": "Feb 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Outline",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Grill",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Inner fill",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Outer fill",
+      "value": "Spiral"
+    }
+  ]
+}

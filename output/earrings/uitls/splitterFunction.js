@@ -1,3 +1,5 @@
+//this util is needed just for this collection, since there were no split between layers for different earrings in original ai file
+
 const earringTypes = {
 	earth: 'Earth',
 	water_gun: 'Water Gun',

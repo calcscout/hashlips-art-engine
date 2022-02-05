@@ -1,0 +1,42 @@
+{
+  "collection": "OG Grills",
+  "artist": "Apecessories",
+  "id": 967,
+  "total_issued": 1000,
+  "name": "OG Grill #967",
+  "hash": "04d5837a08a6d46f912bfbc4766f8287ff27c3ee52e658263dd7072be1d86691",
+  "description": "Collection of OG Grills for your Apes",
+  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/967.png",
+  "date_generation": 1644047751441,
+  "date_in_store": "Feb 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "web4 OG",
+  "attributes": [
+    {
+      "trait_type": "Outline",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Grill",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Inner fill",
+      "value": "Yellow Giraffe"
+    },
+    {
+      "trait_type": "Outer fill",
+      "value": "Cow"
+    }
+  ],
+  "collectionPath": "grills",
+  "fittingApeCollections": [
+    "bayc"
+  ],
+  "fittingApes": [
+    9
+  ]
+}

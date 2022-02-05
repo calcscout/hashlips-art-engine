@@ -23,18 +23,6 @@ const buildSetup = () => {
 	fs.mkdirSync(buildDir);
 };
 
-const outlineToFolder = {
-	Discomfort: 'Discomfort',
-	Dumbfounded: 'Dumbfounded',
-	Grin: 'Grin',
-	Jovial: 'Jovial',
-	'Phoneme L': 'Phoneme L',
-	'Phoneme Oh': 'Phoneme Oh',
-	'Phoneme Vuh': 'Phoneme Vuh',
-	Rage: 'Rage',
-	'Small Grin': 'Small Grin',
-};
-
 // read json data
 let rawdata = fs.readFileSync(`./metadata/initial/_metadata.json`);
 let data = JSON.parse(rawdata);
