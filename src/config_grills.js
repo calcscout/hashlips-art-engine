@@ -5,7 +5,7 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 //AM defined modifications
-const collectionName = 'Grills';
+const collectionName = 'OG Grills';
 const collectionFolder = 'grills';
 const containRaces = true; //if false, only one race is considered
 const suitingMouthNumbers = []; //ignored if there are races
@@ -47,9 +47,9 @@ const mouthNumbers = {
 };
 
 // General metadata for Ethereum
-const namePrefix = 'Grill';
+const namePrefix = 'OG Grill';
 const description = 'Collection of NFT grills for your Apes';
-const baseUri = 'ipfs://QmaPQZMgudHLZXp3N9GQusmdKkbrXsokVVhY3ZUwvcUjMT';
+const baseUri = 'ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC';
 
 const solanaMetadata = {
 	symbol: 'YC',
@@ -66,27 +66,7 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
 	{
-		growEditionSizeTo: 60,
-		race: 'Discomfort',
-		layersOrder: [
-			{ name: 'Outline' },
-			{ name: 'Grill' },
-			{ name: 'Inner fill' },
-			{ name: 'Outer fill' },
-		],
-	},
-	{
-		growEditionSizeTo: 135,
-		race: 'Dumbfounded',
-		layersOrder: [
-			{ name: 'Outline' },
-			{ name: 'Grill' },
-			{ name: 'Inner fill' },
-			{ name: 'Outer fill' },
-		],
-	},
-	{
-		growEditionSizeTo: 210,
+		growEditionSizeTo: 600,
 		race: 'Grin',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -96,8 +76,8 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 285,
-		race: 'Jovial',
+		growEditionSizeTo: 900,
+		race: 'Dumbfounded',
 		layersOrder: [
 			{ name: 'Outline' },
 			{ name: 'Grill' },
@@ -106,7 +86,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 360,
+		growEditionSizeTo: 1100,
 		race: 'Phoneme Vuh',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -116,7 +96,27 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 480,
+		growEditionSizeTo: 1300,
+		race: 'Jovial',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 1500,
+		race: 'Small Grin',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 1700,
 		race: 'Rage',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -126,8 +126,28 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 555,
-		race: 'Small Grin',
+		growEditionSizeTo: 1900,
+		race: 'Phoneme L',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 2100,
+		race: 'Phoneme Oh',
+		layersOrder: [
+			{ name: 'Outline' },
+			{ name: 'Grill' },
+			{ name: 'Inner fill' },
+			{ name: 'Outer fill' },
+		],
+	},
+	{
+		growEditionSizeTo: 2300,
+		race: 'Discomfort',
 		layersOrder: [
 			{ name: 'Outline' },
 			{ name: 'Grill' },
