@@ -4,7 +4,6 @@
   "id": 212,
   "total_issued": 1000,
   "name": "OG Grill #212",
-  "hash": "dcd684d9d82301255acf697d6055ec5f6df974ea507b763cd56baa50b5b918c3",
   "description": "Collection of OG Grills for your Apes",
   "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/212.png",
   "date_generation": 1644047722918,
@@ -14,6 +13,8 @@
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
+  "item_hash": "dcd684d9d82301255acf697d6055ec5f6df974ea507b763cd56baa50b5b918c3",
+  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
   "attributes": [
     {
       "trait_type": "Outline",

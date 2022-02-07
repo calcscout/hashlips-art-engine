@@ -27,6 +27,7 @@ const productionLab = 'web4 OG';
 const productionDate = 'Feb 2022';
 const info = ['https://apecessories.com', 'https://apecessories.store'];
 const totalIssued = initialMedatada.length;
+const imageIPFSCID = '[CID_to_UPDAte]';
 
 //data for full metadata (in addition to onchain fields)
 const collectionPath = 'grills';
@@ -63,7 +64,7 @@ const generateOnchainMetadataObject = async (
 		total_issued: totalIssued,
 		name: `${namePrefix}${_initialMetadataObject.edition}`,
 		description,
-		image: _initialMetadataObject.image,
+		image: `ipfs://${imageIPFSCID}/${_initialMetadataObject.edition}.png`,
 		date_generation: _initialMetadataObject.date,
 		date_in_store: productionDate,
 		info,
