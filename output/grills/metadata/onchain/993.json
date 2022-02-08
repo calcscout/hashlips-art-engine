@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #993",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/993.png",
-  "date_generation": 1644047771099,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/993.png",
+  "date_generation": 1644297265763,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "d6cb1549806aba74be9a848d110676b0dcc98c01c45a423ffb67c2026a344cf4",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "ab1b04ec06d223cb76d58913407015c9a33f52c4cb9b463cc7c7b717d82186e1",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme Oh"
+      "value": "Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Skull_temp"
+      "value": "Yellow"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Gold_temp"
+      "value": "Banana"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Sparkle_temp"
+      "value": "Smile"
     }
   ]
 }

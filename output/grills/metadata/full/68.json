@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #68",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/68.png",
-  "date_generation": 1644047733300,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/68.png",
+  "date_generation": 1644297300146,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "4124e17573b0bfee04b7e1d2a9118ab6a2ea98bd6b74e5c7d6b4acc59e6d4c1e",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "93b6052d5ddee380e2949790cb544a8beb06937a428cbe5647cc7d419cb1c18d",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme Vuh"
+      "value": "Jovial"
     },
     {
       "trait_type": "Grill",
-      "value": "Smile"
+      "value": "Black"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Lightning"
+      "value": "Smile"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Banana"
+      "value": "Smile"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    7
+    8
   ]
 }

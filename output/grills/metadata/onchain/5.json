@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #5",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/5.png",
-  "date_generation": 1644047774302,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/5.png",
+  "date_generation": 1644297302274,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "004032da895a67b3deff33a86086423c8b4aa9bbcaf2e743fea93a24329ec7e5",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "ca8036a8d6855b22ab0d7b0f40d996aa597dc5de585a552722df4e5c90b13269",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme Oh"
+      "value": "Jovial"
     },
     {
       "trait_type": "Grill",
-      "value": "Turquoise_temp"
+      "value": "Yellow"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Smile_temp"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Lightning_temp"
+      "value": "Banana"
     }
   ]
 }

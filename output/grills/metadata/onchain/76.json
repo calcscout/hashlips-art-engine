@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #76",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/76.png",
-  "date_generation": 1644047777295,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/76.png",
+  "date_generation": 1644297301748,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "5c9480998eb0073a9be974052573abc3676aad8d8a1f79d6689ec1fa9f5bac60",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "b237d6fa656a9419e99a5637cecf239334b951e48279d415ad46184bafe64037",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Discomfort"
+      "value": "Jovial"
     },
     {
       "trait_type": "Grill",
-      "value": "Silver"
+      "value": "Yellow"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Smile"
+      "value": "Purple Giraffe"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Sparkle"
+      "value": "Skull Gold"
     }
   ]
 }

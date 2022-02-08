@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #956",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/956.png",
-  "date_generation": 1644047717426,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/956.png",
+  "date_generation": 1644297281056,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "f35a7262badad76e7e6a3c1ce24d26e670c2ab786e65df2a0924bf1558488c01",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "3b735f872a580ea31b93cff3408d414cf73649409be7b8a30b64646d7e4103cf",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Grin"
+      "value": "Dumbfounded"
     },
     {
       "trait_type": "Grill",
-      "value": "Turquoise"
+      "value": "Cross"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Skull"
+      "value": "Tye Dye"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Skull"
+      "value": "Tiger"
     }
   ],
   "collectionPath": "grills",
@@ -38,9 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    3,
-    20,
-    23,
-    25
+    5
   ]
 }

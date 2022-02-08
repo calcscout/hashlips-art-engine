@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #840",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/840.png",
-  "date_generation": 1644047726448,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/840.png",
+  "date_generation": 1644297299839,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "64f8f6261cd73a44b7fa49303d53b0bceac73d3a5fe44de746954c56e6e442d3",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "b36abf081e17b4d0f46b4ac703db4d0ca87e53769ca77031a4af530682fcfb2d",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Dumbfounded"
+      "value": "Jovial"
     },
     {
       "trait_type": "Grill",
-      "value": "Cross"
+      "value": "Silver"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Rainbow"
+      "value": "Purple Giraffe"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Tiger"
+      "value": "Iced"
     }
   ]
 }

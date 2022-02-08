@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #763",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/763.png",
-  "date_generation": 1644047750101,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/763.png",
+  "date_generation": 1644297316946,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "c05922732452f0cff26aa291e2d1ba2dba7a657281156ae3876313896e65d6c7",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "b6e5e62e0a1debf2950c41d592b28a4e77fc154669c64a9e438142ae1b01897a",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Small Grin"
+      "value": "Rage"
     },
     {
       "trait_type": "Grill",
-      "value": "Banana"
+      "value": "Black"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Lightning"
+      "value": "Smile"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Cow"
+      "value": "Spiral"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    9
+    10
   ]
 }

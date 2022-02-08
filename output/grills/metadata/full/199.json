@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #199",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/199.png",
-  "date_generation": 1644047742934,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/199.png",
+  "date_generation": 1644297258052,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "fa8bd900bb2c4aab960cd48657690c31c1a9b6bca1e660fad02c229c23a3303c",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "bc85f2de96656a852e67aa0f4a1d72d629441f44d7024d78d51eaad4a9876ed6",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Jovial"
+      "value": "Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Smile"
+      "value": "Black Gold"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Smile"
+      "value": "Cross"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Gold"
+      "value": "Lightning"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,9 @@
     "bayc"
   ],
   "fittingApes": [
-    8
+    3,
+    20,
+    23,
+    25
   ]
 }

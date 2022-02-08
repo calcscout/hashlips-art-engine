@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #904",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/904.png",
-  "date_generation": 1644047746164,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/904.png",
+  "date_generation": 1644297286372,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "5840f108334dbaa9aceaf2b48650cf66bbcf208e75bf589d9eae47571177da72",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "23adf049f6613de6fcbb823b8691df154ffd341833735bc053e7a424a0b882bf",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Jovial"
+      "value": "Dumbfounded"
     },
     {
       "trait_type": "Grill",
-      "value": "Banana"
+      "value": "Smile"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Banana"
+      "value": "Cheata"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Iced"
+      "value": "Lightning"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    8
+    5
   ]
 }

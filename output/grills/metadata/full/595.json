@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #595",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/595.png",
-  "date_generation": 1644047732118,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/595.png",
+  "date_generation": 1644297314849,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "d36d187f94ee6b33d5d31a4b60b83349812db633a9dd1a0cfb165fa2fdd79191",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "2e449e89e9a13c7429b2b778aec7a5feb32be34bc9c9f2e64b0c029107477805",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme Vuh"
+      "value": "Rage"
     },
     {
       "trait_type": "Grill",
-      "value": "Tye Dye"
+      "value": "Black"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Skull"
+      "value": "Sprinkle"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Sparkle"
+      "value": "Spiral"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    7
+    10
   ]
 }

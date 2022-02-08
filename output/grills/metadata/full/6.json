@@ -5,16 +5,16 @@
   "total_issued": 1000,
   "name": "OG Grill #6",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/6.png",
-  "date_generation": 1644047750316,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/6.png",
+  "date_generation": 1644297308833,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "a7c5664584f24d6137529ee5c5b8510894761ee3703d176f2fcf4447f394a1d2",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "e2ece1c4f4c0509acdb408fe418137ccda05efa9407e13562549f0b979e8f93d",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
@@ -22,15 +22,15 @@
     },
     {
       "trait_type": "Grill",
-      "value": "Black"
+      "value": "Lightning"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Tiger"
+      "value": "Yellow Giraffe"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Skull"
+      "value": "Cross"
     }
   ],
   "collectionPath": "grills",

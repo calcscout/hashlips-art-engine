@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #801",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/801.png",
-  "date_generation": 1644047760302,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/801.png",
+  "date_generation": 1644297303744,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "86424f021f1ec2be08a2847a1fa3cfe494209ebc7b60d65115d27df89f0e463c",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "b2f9b310f2832c2a135be86bba89808a8dc76657d6c34d48afb67e3fd7b74bb0",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Rage"
+      "value": "Jovial"
     },
     {
       "trait_type": "Grill",
-      "value": "Black_temp"
+      "value": "Lightning"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Gold_temp"
+      "value": "Cross"
     },
     {
       "trait_type": "Outer fill",
-      "value": "8 Bit Rainbow_temp"
+      "value": "Iced"
     }
   ]
 }

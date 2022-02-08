@@ -27,7 +27,7 @@ const productionLab = 'web4 OG';
 const productionDate = 'Feb 2022';
 const info = ['https://apecessories.com', 'https://apecessories.store'];
 const totalIssued = initialMedatada.length;
-const imageIPFSCID = '[CID_to_UPDAte]';
+const imageIPFSCID = 'QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ';
 
 //data for full metadata (in addition to onchain fields)
 const collectionPath = 'grills';

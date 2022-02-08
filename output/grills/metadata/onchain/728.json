@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #728",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/728.png",
-  "date_generation": 1644047725938,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/728.png",
+  "date_generation": 1644297323477,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "35dfc440148d38a4b6cc38da6ab671d545110ccadb9c9aa7f0e0039b8124fe7b",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "00a8cbc6e12ca5c7098c3e6b097ca9b5a0fb4bf98b1dde9d3c523b645736f85c",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Dumbfounded"
+      "value": "Phoneme L"
     },
     {
       "trait_type": "Grill",
-      "value": "Black"
+      "value": "Silver Grill"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Skull"
+      "value": "Cross"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Tiger"
+      "value": "Smile"
     }
   ]
 }

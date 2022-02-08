@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #246",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/246.png",
-  "date_generation": 1644047739181,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/246.png",
+  "date_generation": 1644297330296,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "6206e87a52eb80bf44473a043fc397e6c354432d9600f22624329af0aea4f4ae",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "9e5b5644e0b3af9d43bf417152a44f385a0bc852ddd875011fd1ba559a3b1fa0",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Jovial"
+      "value": "Discomfort"
     },
     {
       "trait_type": "Grill",
-      "value": "Black"
-    },
-    {
-      "trait_type": "Inner fill",
       "value": "Banana"
     },
     {
+      "trait_type": "Inner fill",
+      "value": "Cross"
+    },
+    {
       "trait_type": "Outer fill",
-      "value": "Gold"
+      "value": "Smile"
     }
   ]
 }

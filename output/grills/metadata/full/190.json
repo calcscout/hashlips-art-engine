@@ -5,20 +5,20 @@
   "total_issued": 1000,
   "name": "OG Grill #190",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/190.png",
-  "date_generation": 1644047748612,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/190.png",
+  "date_generation": 1644297276798,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "a55f603654107bacde13dbd1807632bfc604c627a77c3adf1151e38795db3949",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "03355b46d0221f1f845c7102f37eb0c007a33d78e76307d91d9561a713ab7816",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Small Grin"
+      "value": "Grin"
     },
     {
       "trait_type": "Grill",
@@ -26,11 +26,11 @@
     },
     {
       "trait_type": "Inner fill",
-      "value": "Banana"
+      "value": "Spiral"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Banana"
+      "value": "Spiral"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,9 @@
     "bayc"
   ],
   "fittingApes": [
-    9
+    3,
+    20,
+    23,
+    25
   ]
 }

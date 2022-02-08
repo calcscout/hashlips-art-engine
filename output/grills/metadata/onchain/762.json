@@ -5,16 +5,16 @@
   "total_issued": 1000,
   "name": "OG Grill #762",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/762.png",
-  "date_generation": 1644047753801,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/762.png",
+  "date_generation": 1644297306498,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "f4ea9d902758d6f76a1fa43f7281fed242def83cc5c72fe1bc6f794fe1b0801a",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "29c2445bfadd938e8c1aa7c067ddd032d9fa9c0c15d88a9ab53dd29b1fa2be0f",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
@@ -22,15 +22,15 @@
     },
     {
       "trait_type": "Grill",
-      "value": "Banana"
+      "value": "Yellow"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Skull"
+      "value": "Tye Dye"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Gold"
+      "value": "Banana"
     }
   ]
 }

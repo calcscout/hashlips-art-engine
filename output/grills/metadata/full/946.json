@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #946",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/946.png",
-  "date_generation": 1644047768244,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/946.png",
+  "date_generation": 1644297296152,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "76320ea91366284ffd01edad7cd54fa526d0569d61c8a43138009ee2798ef4ab",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "23233f6fcfc0622f04d5b588180b0b1b8a40f99a76bbd6d592be926f3f60d346",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme L"
+      "value": "Phoneme Vuh"
     },
     {
       "trait_type": "Grill",
-      "value": "Silver_temp"
+      "value": "Gold"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Tiger_temp"
+      "value": "Tiger"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Cross_temp"
+      "value": "Cross"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    12
+    7
   ]
 }

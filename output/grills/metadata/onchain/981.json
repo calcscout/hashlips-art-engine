@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #981",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/981.png",
-  "date_generation": 1644047765288,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/981.png",
+  "date_generation": 1644297291190,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "4142d4d7974288420325a684f2d99a2da3a9e69ebb73207526a45572cd3f6448",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "4e0d127d32be6aceaca902797c294de6aef3561eb331990d3a3452021bfba19b",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme L"
+      "value": "Phoneme Vuh"
     },
     {
       "trait_type": "Grill",
-      "value": "Skull_temp"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Sparkle_temp"
+      "value": "Cross"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Sparkle_temp"
+      "value": "Lightning"
     }
   ]
 }

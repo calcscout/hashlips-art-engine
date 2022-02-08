@@ -5,16 +5,16 @@
   "total_issued": 1000,
   "name": "OG Grill #844",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/844.png",
-  "date_generation": 1644047778818,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/844.png",
+  "date_generation": 1644297332404,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "bd13c83925ddd034c1224c9a944d2665dbd8227abfb211c3ddbec46d2b31b4a4",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "eb97a4d33e3351ec104cc5f68a676f6abe6f61dbcda331a2a134d88e63c1d833",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
@@ -22,15 +22,15 @@
     },
     {
       "trait_type": "Grill",
-      "value": "Smile"
+      "value": "Rainbow"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Skull"
+      "value": "Gold"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Smile"
+      "value": "Skull"
     }
   ],
   "collectionPath": "grills",

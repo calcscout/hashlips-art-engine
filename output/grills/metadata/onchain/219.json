@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #219",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/219.png",
-  "date_generation": 1644047741971,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/219.png",
+  "date_generation": 1644297274255,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "ee444b22cc8ed294de70449b70e2a2527ee5edac24764e10baee5a3d8a793c43",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "02f23105d7914371f5b93f401f2dda31c784a6386f3afca764505edf0e496976",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Jovial"
+      "value": "Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Lightning"
+      "value": "Banana"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Gold"
+      "value": "Lightning"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Iced"
+      "value": "Banana"
     }
   ]
 }

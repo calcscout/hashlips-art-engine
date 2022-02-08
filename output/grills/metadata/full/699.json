@@ -5,24 +5,24 @@
   "total_issued": 1000,
   "name": "OG Grill #699",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/699.png",
-  "date_generation": 1644047730791,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/699.png",
+  "date_generation": 1644297306352,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "003e117c2a518b1957f6d1cda1dc44eac76b5a7ce38bbbced79fbb2c2d71d350",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "35b32d9b15270087a61bd50c2d9eaf841d973f09b50c9d1cc3dea1ad663e64f0",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme Vuh"
+      "value": "Small Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Black"
+      "value": "Cross"
     },
     {
       "trait_type": "Inner fill",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Outer fill",
-      "value": "Skull"
+      "value": "Cow"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    7
+    9
   ]
 }

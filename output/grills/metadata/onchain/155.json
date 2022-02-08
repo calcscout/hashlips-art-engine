@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #155",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/155.png",
-  "date_generation": 1644047728857,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/155.png",
+  "date_generation": 1644297291049,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "05b1ddfb2128ac055ff5880df69575d798da7f41c229160ffba38af0537e869f",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "1c59ed119f41576e1c747c2c6d136d88593f24a837db9346307b3cfa6ec9e88b",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Dumbfounded"
+      "value": "Phoneme Vuh"
     },
     {
       "trait_type": "Grill",
-      "value": "Banana"
+      "value": "Tye Dye"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Iced"
+      "value": "Banana"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Cross"
+      "value": "Gold"
     }
   ]
 }

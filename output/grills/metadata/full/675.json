@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #675",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/675.png",
-  "date_generation": 1644047762308,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/675.png",
+  "date_generation": 1644297287409,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "c12cb4656b7ef5a360b188b0f610263369e0e0c6149c87ee27a1ecafdfcb36e0",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "6ccbae2cb1468df563d726cb96b5a34b08386288b67ffa8efa57268b80c143d3",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Rage"
+      "value": "Dumbfounded"
     },
     {
       "trait_type": "Grill",
-      "value": "Lightning_temp"
+      "value": "Skull"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Sparkle_temp"
+      "value": "Lightning"
     },
     {
       "trait_type": "Outer fill",
-      "value": "8 Bit Rainbow_temp"
+      "value": "Sparkle"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    10
+    5
   ]
 }

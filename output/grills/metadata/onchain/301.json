@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #301",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/301.png",
-  "date_generation": 1644047763082,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/301.png",
+  "date_generation": 1644297333575,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "18781cd94df3f61faf950dee1252e6fd2fc51702f16b70edc93c6810d10e587b",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "18abae0150dd01186df62e001829b5da2d7bedd9ced7a9bce333adac1ee95f9f",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme L"
+      "value": "Discomfort"
     },
     {
       "trait_type": "Grill",
-      "value": "Yellow_temp"
+      "value": "Smile"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Banana_temp"
+      "value": "Lightning"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Cross_temp"
+      "value": "Smile"
     }
   ]
 }

@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #516",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/516.png",
-  "date_generation": 1644047755950,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/516.png",
+  "date_generation": 1644297307026,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "82078e65dca8ce63cc3606389df2c9612db095905baa89e7d73cde36dcc790ea",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "3bb7df909962eb95a6c40317547ddfaccd9c5b20b10fe7999be86a83331493ae",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Rage"
+      "value": "Small Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Black Gold_temp"
+      "value": "Silver"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Sparkle_temp"
+      "value": "Yellow Giraffe"
     },
     {
       "trait_type": "Outer fill",
-      "value": "8 Bit Rainbow_temp"
+      "value": "Cross"
     }
   ]
 }

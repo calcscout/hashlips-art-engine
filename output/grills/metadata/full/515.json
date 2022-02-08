@@ -5,28 +5,28 @@
   "total_issued": 1000,
   "name": "OG Grill #515",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/515.png",
-  "date_generation": 1644047746524,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/515.png",
+  "date_generation": 1644297327778,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "a2dce1f38af150ab6a26e15f0e564e4dafd64b4386189229512fa145c9499dd4",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "3c1b568b561fbb1393c3c326415148806851d4587b33cdc9b4b6682953c1b8b1",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Jovial"
+      "value": "Phoneme L"
     },
     {
       "trait_type": "Grill",
-      "value": "Silver"
+      "value": "Gold Grill"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Smile"
+      "value": "Spiral"
     },
     {
       "trait_type": "Outer fill",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    8
+    12
   ]
 }

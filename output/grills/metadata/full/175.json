@@ -5,28 +5,28 @@
   "total_issued": 1000,
   "name": "OG Grill #175",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/175.png",
-  "date_generation": 1644047739706,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/175.png",
+  "date_generation": 1644297255096,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "1e8272cd161ddc6c6fa645fd7df226a99e8fa0bf563cdff2a5cb5e83eee92637",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "99adc37e12754a883e8733c4e37a870e5207ad7769a6115f2b1efe12393f7715",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Jovial"
+      "value": "Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Silver"
+      "value": "Black Gold"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Sparkle"
+      "value": "Cow"
     },
     {
       "trait_type": "Outer fill",
@@ -38,6 +38,9 @@
     "bayc"
   ],
   "fittingApes": [
-    8
+    3,
+    20,
+    23,
+    25
   ]
 }

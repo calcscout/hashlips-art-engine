@@ -5,24 +5,24 @@
   "total_issued": 1000,
   "name": "OG Grill #453",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/453.png",
-  "date_generation": 1644047733415,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/453.png",
+  "date_generation": 1644297257501,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "3ec2c1e4d39b1608a5de182a7f5c501419dd4eaf5c787f040a37be611e5240d8",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "180901d71a03cc4f4048240a8a32d703f168bb508e57e932885123f7a06b238f",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme Vuh"
+      "value": "Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Banana"
+      "value": "Turquoise"
     },
     {
       "trait_type": "Inner fill",

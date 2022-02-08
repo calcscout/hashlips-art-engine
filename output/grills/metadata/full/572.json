@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #572",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/572.png",
-  "date_generation": 1644047721426,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/572.png",
+  "date_generation": 1644297308310,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "ca1be2d7018ecac079b1ddde88197f28439d258913cb06e2c9f5d6e233d29508",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "9eba7d82f9ce06aa3bad8f2cb4ac7a825cb160d426767fb7f55fe79e4f74827b",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Grin"
+      "value": "Small Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Cross"
+      "value": "Black Gold"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Lightning"
+      "value": "Tye Dye"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Spiral"
+      "value": "Gold"
     }
   ],
   "collectionPath": "grills",
@@ -38,9 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    3,
-    20,
-    23,
-    25
+    9
   ]
 }

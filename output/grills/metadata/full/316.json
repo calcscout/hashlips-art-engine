@@ -5,28 +5,28 @@
   "total_issued": 1000,
   "name": "OG Grill #316",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/316.png",
-  "date_generation": 1644047776903,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/316.png",
+  "date_generation": 1644297295042,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "9d6bf4b1ccb3928226e618a968e921fc275281cccf115940b9afc11e0205d615",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "208a75d300fa4a308990aec33f3f2619e640c93675252157afa2c438be4c7626",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Discomfort"
+      "value": "Phoneme Vuh"
     },
     {
       "trait_type": "Grill",
-      "value": "Silver"
+      "value": "Black"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Skull"
+      "value": "Black"
     },
     {
       "trait_type": "Outer fill",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    14
+    7
   ]
 }

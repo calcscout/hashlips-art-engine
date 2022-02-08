@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #21",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/21.png",
-  "date_generation": 1644047732195,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/21.png",
+  "date_generation": 1644297263080,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "72c45ff8cc54bf9c42253758383350d2937a4cbefd5d9da50a4051c8d4616b0c",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "56a5075e4675dfd3cfb9fd9c249c297b3b141e2f8ff774a5ff65bb2c187082cc",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme Vuh"
+      "value": "Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Rainbow"
+      "value": "Banana"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Sparkle"
+      "value": "Cross"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Lightning"
+      "value": "Color Bomb"
     }
   ]
 }

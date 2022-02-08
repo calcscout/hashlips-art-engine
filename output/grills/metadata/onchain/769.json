@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #769",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/769.png",
-  "date_generation": 1644047751324,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/769.png",
+  "date_generation": 1644297280675,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "393012b66acec49b3b2124e67fc31abd95ed5efc5ec01c9785a77bfce844e8a0",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "2c678d6f92a828abe3b45fc9597726c9aef9b90f44460ad8968a6cdff82963b3",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Small Grin"
+      "value": "Dumbfounded"
     },
     {
       "trait_type": "Grill",
-      "value": "Banana"
+      "value": "Yellow"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Cross"
+      "value": "Lightning"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Lightning"
+      "value": "Smile"
     }
   ]
 }

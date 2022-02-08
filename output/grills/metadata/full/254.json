@@ -5,16 +5,16 @@
   "total_issued": 1000,
   "name": "OG Grill #254",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/254.png",
-  "date_generation": 1644047764594,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/254.png",
+  "date_generation": 1644297326554,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "907860f138c9572eb94e3f7505e39fdef66f7d613266c1fa42022f2eadf2964b",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "2956aeb72c262ad5d25bf8a391e5c54868aaef9949175bb7d7379f8dcbcddde2",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
@@ -22,15 +22,15 @@
     },
     {
       "trait_type": "Grill",
-      "value": "Black Gold_temp"
+      "value": "Silver Grill"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Spiral_temp"
+      "value": "Smile"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Smile_temp"
+      "value": "Spiral"
     }
   ],
   "collectionPath": "grills",

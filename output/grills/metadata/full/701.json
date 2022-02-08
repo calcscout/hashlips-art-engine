@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #701",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/701.png",
-  "date_generation": 1644047770232,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/701.png",
+  "date_generation": 1644297317759,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "e2d0591516b714c9c2c10cb002d41729ab8d53af765a8010c9ebf4977e970301",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "236f9b6a4e13fc11d2e14e5b9c7bc3952519e84aa6763058af3e4345790145f7",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme Oh"
+      "value": "Rage"
     },
     {
       "trait_type": "Grill",
-      "value": "Black Gold_temp"
+      "value": "Gold"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Smile_temp"
+      "value": "Smile"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Smile_temp"
+      "value": "Lightning"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    13
+    10
   ]
 }

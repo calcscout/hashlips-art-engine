@@ -5,16 +5,16 @@
   "total_issued": 1000,
   "name": "OG Grill #593",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/593.png",
-  "date_generation": 1644047706979,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/593.png",
+  "date_generation": 1644297266309,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "2411afeef375cb4cf027d3bad286b35eb243a72fcbc7d48c5f3836534e15c7c7",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "8b6fe61a34a0ddde0f92f1bb217f2ade7082cc32723b0a35e7f0fb3ce493a0ac",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
@@ -22,15 +22,15 @@
     },
     {
       "trait_type": "Grill",
-      "value": "Black Gold"
+      "value": "Black"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Tiger"
+      "value": "Lightning"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Banana"
+      "value": "Color Bomb"
     }
   ],
   "collectionPath": "grills",

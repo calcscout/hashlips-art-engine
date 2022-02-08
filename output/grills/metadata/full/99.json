@@ -5,16 +5,16 @@
   "total_issued": 1000,
   "name": "OG Grill #99",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/99.png",
-  "date_generation": 1644047712324,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/99.png",
+  "date_generation": 1644297255436,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "cb9e04412734c96708c36bd18e2b7f1b43bb82e2711455b425066c2895edcf27",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "2d8aba9abb8da13a47b47918e1e29f73e0dcff43f991904882a9822a0eb00c50",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
@@ -22,15 +22,15 @@
     },
     {
       "trait_type": "Grill",
-      "value": "Yellow"
+      "value": "Silver"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Lightning"
+      "value": "Sparkle"
     },
     {
       "trait_type": "Outer fill",
-      "value": "8 Bit Rainbow"
+      "value": "Smile"
     }
   ],
   "collectionPath": "grills",

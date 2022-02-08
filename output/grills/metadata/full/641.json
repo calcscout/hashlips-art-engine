@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #641",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/641.png",
-  "date_generation": 1644047764293,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/641.png",
+  "date_generation": 1644297309903,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "fc1361b3a096a4778b24beba23710172a932ca34ab2b4ce758edd56bd9a43658",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "6bfea6808ed3056e8b30c1b494a75e2ef6dae9884e51767098cf0650844be1f6",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme L"
+      "value": "Small Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Turquoise_temp"
+      "value": "Skull"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Skull_temp"
+      "value": "Skull"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Gold_temp"
+      "value": "Cow"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    12
+    9
   ]
 }

@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #611",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/611.png",
-  "date_generation": 1644047710407,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/611.png",
+  "date_generation": 1644297294938,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "f018de0740f6d42ead50ae2c410c4a253535c1aa17138d4f52667b0885261849",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "daafa579fec5dddf1234cca3be35432d9de58a6b35b1af2677e1dbd48c04bd2e",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Grin"
+      "value": "Phoneme Vuh"
     },
     {
       "trait_type": "Grill",
-      "value": "Banana"
+      "value": "Skull"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Spiral"
+      "value": "Colors"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Smile"
+      "value": "Pink Flame"
     }
   ]
 }

@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #553",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/553.png",
-  "date_generation": 1644047759663,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/553.png",
+  "date_generation": 1644297277780,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "322deca0a83261dcde1a528317af2f0651c9d9519322f4f854b4bca83b189f7f",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "fd0bfde52c150983e54fcd57c3a455f3b313cfb71f7a4f771dff54d7865d4d99",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Rage"
+      "value": "Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Black_temp"
+      "value": "Yellow"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Spiral_temp"
+      "value": "Spiral"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Color Bomb_temp"
+      "value": "Sparkle"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,9 @@
     "bayc"
   ],
   "fittingApes": [
-    10
+    3,
+    20,
+    23,
+    25
   ]
 }

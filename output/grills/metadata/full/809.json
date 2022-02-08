@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #809",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/809.png",
-  "date_generation": 1644047776599,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/809.png",
+  "date_generation": 1644297279066,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "afc7286cb0c36f451fd67069d93bd2fb2503044477ad25faaf89aa28d8389830",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "f5e42b02a76aca3c08861a310a27f763757b71906d1c0fd976b6dbe4a712b2ba",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Discomfort"
+      "value": "Dumbfounded"
     },
     {
       "trait_type": "Grill",
-      "value": "Black"
+      "value": "Skull"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Lightning"
+      "value": "Cheata"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Cross"
+      "value": "Sparkle"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    14
+    5
   ]
 }

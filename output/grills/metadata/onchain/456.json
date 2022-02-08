@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #456",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/456.png",
-  "date_generation": 1644047735451,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/456.png",
+  "date_generation": 1644297312808,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "3436beffcc998a8426a588b75a72161cf7c200d52a1e6dd2911925e1a911c50f",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "5c31b23f7df3906423fcf913c6fbef795c7caf8acbefdfafa8902afd7a4bd000",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme Vuh"
+      "value": "Small Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Rainbow"
+      "value": "Silver"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Cross"
+      "value": "Spiral"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Spiral"
+      "value": "Turquoise"
     }
   ]
 }

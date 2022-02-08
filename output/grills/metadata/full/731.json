@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #731",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/731.png",
-  "date_generation": 1644047764178,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/731.png",
+  "date_generation": 1644297304741,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "6fb0c4f4e569d2d0d51174c0f10a81327202cdebd1391ec51516bc2525e9d6dc",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "ea07f9853005a7c9786add0ea24a0a622c911236b9104f3c2e69b5e37b004fad",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme L"
+      "value": "Jovial"
     },
     {
       "trait_type": "Grill",
-      "value": "Silver_temp"
+      "value": "Smile"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Smile_temp"
+      "value": "Purple Giraffe"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Banana_temp"
+      "value": "Gold"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    12
+    8
   ]
 }

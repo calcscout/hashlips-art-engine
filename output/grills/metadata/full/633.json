@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #633",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/633.png",
-  "date_generation": 1644047745557,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/633.png",
+  "date_generation": 1644297290332,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "4ca98ba66efd027877cf7ed4ab7c736738c4283bbc57918b8ee567e953b2b096",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "ad8d1620ff4135d7879edd242dcedc4e09f7723e5213691cf84ee65fdc4587a5",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Jovial"
+      "value": "Dumbfounded"
     },
     {
       "trait_type": "Grill",
-      "value": "Smile"
+      "value": "Lightning"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Banana"
+      "value": "Cross"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Pink Flame"
+      "value": "Tye Dye"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    8
+    5
   ]
 }

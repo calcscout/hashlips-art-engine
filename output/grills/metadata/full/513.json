@@ -5,24 +5,24 @@
   "total_issued": 1000,
   "name": "OG Grill #513",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/513.png",
-  "date_generation": 1644047738806,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/513.png",
+  "date_generation": 1644297334138,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "bddbc75d4dcec36047ffe43688066349ca60450857e85fc33ce15f2f875291c5",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "e3ecd3ded3eb5a1c23c1cb8616530c599ffcb884f8031ef02a4e542848fbd884",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme Vuh"
+      "value": "Discomfort"
     },
     {
       "trait_type": "Grill",
-      "value": "Tye Dye"
+      "value": "Cross"
     },
     {
       "trait_type": "Inner fill",
@@ -30,7 +30,7 @@
     },
     {
       "trait_type": "Outer fill",
-      "value": "Lightning"
+      "value": "Banana"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    7
+    14
   ]
 }

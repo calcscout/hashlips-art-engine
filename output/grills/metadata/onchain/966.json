@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #966",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/966.png",
-  "date_generation": 1644047774957,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/966.png",
+  "date_generation": 1644297295810,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "5b05a31b54bf5310bc87e0cb8ec6938d75708e4ab280ab3cb76fa3cf48133d45",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "17fd17ec67544750c02a576df773774251f869c4df20fba2f40339cb97ec966b",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Discomfort"
+      "value": "Phoneme Vuh"
     },
     {
       "trait_type": "Grill",
-      "value": "Turquoise"
+      "value": "Black"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Weed"
+      "value": "Smile"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Yellow Giraffe"
+      "value": "Smile"
     }
   ]
 }

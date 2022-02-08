@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #919",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/919.png",
-  "date_generation": 1644047757967,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/919.png",
+  "date_generation": 1644297331935,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "ce155475b1a4b49b6af6a98b2ca074deffa34fff9f17d6cc0e3bf82c3c91339f",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "4c77300d63bc73ebd70e4ad13e284bd633faa37d56d7c12ae817252ae32f9113",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Rage"
+      "value": "Discomfort"
     },
     {
       "trait_type": "Grill",
-      "value": "Yellow_temp"
+      "value": "Lightning"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Tiger_temp"
+      "value": "Banana"
     },
     {
       "trait_type": "Outer fill",
-      "value": "8 Bit Rainbow_temp"
+      "value": "Smile"
     }
   ]
 }

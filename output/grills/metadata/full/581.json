@@ -5,16 +5,16 @@
   "total_issued": 1000,
   "name": "OG Grill #581",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/581.png",
-  "date_generation": 1644047730084,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/581.png",
+  "date_generation": 1644297287264,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "b7c5975fc08e0a3f923e39104e8850f05874b6398e9ed6a90cee39a8b7124916",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "ba00a497d5a130d4462a72bc827c8279ad9a3527244ca97c14556f40be700bf8",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
@@ -22,15 +22,15 @@
     },
     {
       "trait_type": "Grill",
-      "value": "Silver"
+      "value": "Yellow"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Skull"
+      "value": "Banana"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Sparkle"
+      "value": "Banana"
     }
   ],
   "collectionPath": "grills",

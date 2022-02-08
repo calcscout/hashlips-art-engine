@@ -5,16 +5,16 @@
   "total_issued": 1000,
   "name": "OG Grill #230",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/230.png",
-  "date_generation": 1644047698265,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/230.png",
+  "date_generation": 1644297275022,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "e920caa3c37d699d90552c1182b101b35cc39956c45deaa5c88a65535e79ba1a",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "aec9196e9f9d0f296f745d60bca99629c0ef27bb55683f9e8728ada47014f2af",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
@@ -26,11 +26,11 @@
     },
     {
       "trait_type": "Inner fill",
-      "value": "Gold"
+      "value": "Smile"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Skull"
+      "value": "Sparkle"
     }
   ],
   "collectionPath": "grills",

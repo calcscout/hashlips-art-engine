@@ -5,20 +5,20 @@
   "total_issued": 1000,
   "name": "OG Grill #540",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/540.png",
-  "date_generation": 1644047732582,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/540.png",
+  "date_generation": 1644297284773,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "2f02b2c3ed5ad6a4da39bbfc5c465c78c3f16681205761cc8aeaa14d4fa46831",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "d4d470562e1e999ea528a16713db312646b2f77562a676e73a2498558ef2a75d",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme Vuh"
+      "value": "Dumbfounded"
     },
     {
       "trait_type": "Grill",
@@ -26,11 +26,11 @@
     },
     {
       "trait_type": "Inner fill",
-      "value": "Black"
+      "value": "Iced"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Sparkle"
+      "value": "Tiger"
     }
   ]
 }

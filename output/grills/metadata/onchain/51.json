@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #51",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/51.png",
-  "date_generation": 1644047715385,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/51.png",
+  "date_generation": 1644297301263,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "8e96861e44c36a515c174bd27b2fe7021402178c9b359bbf04ea8d49f2c48936",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "4164965a7420841c4417a636c6f696ae609258ece1e8c5d95340ccf22929afa3",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Grin"
+      "value": "Jovial"
     },
     {
       "trait_type": "Grill",
-      "value": "Banana"
+      "value": "Skull"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Banana"
+      "value": "Gold"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Sparkle"
+      "value": "Skull Gold"
     }
   ]
 }

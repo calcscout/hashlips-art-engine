@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #468",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/468.png",
-  "date_generation": 1644047767391,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/468.png",
+  "date_generation": 1644297286290,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "47cdf2f955e5ce8121aff2fce0156086bf1a5b3cf567ba631b47b6c151249611",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "bc3ebbc875857cee535ceb4c635357d0516454c9c1ed5b3cf9f5e01467026738",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Phoneme L"
+      "value": "Dumbfounded"
     },
     {
       "trait_type": "Grill",
-      "value": "Black Gold_temp"
+      "value": "Black"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Sparkle_temp"
+      "value": "Tye Dye"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Gold_temp"
+      "value": "Tiger"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    12
+    5
   ]
 }

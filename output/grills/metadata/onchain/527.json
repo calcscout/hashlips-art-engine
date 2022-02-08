@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #527",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/527.png",
-  "date_generation": 1644047744911,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/527.png",
+  "date_generation": 1644297285537,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "4cccbd6e5de4d7d94c84529129e196dec5917fcb4059de6c27a62f8d8d41df12",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "90ab8413d2880055a702b3b59af157e9774cf6d9e84f5f8745b204e3886e698c",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Jovial"
+      "value": "Dumbfounded"
     },
     {
       "trait_type": "Grill",
-      "value": "Yellow Tiger"
+      "value": "Black"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Rainbow"
+      "value": "Cheata"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Iced"
+      "value": "Gold"
     }
   ]
 }

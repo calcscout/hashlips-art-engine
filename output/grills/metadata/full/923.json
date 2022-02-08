@@ -5,16 +5,16 @@
   "total_issued": 1000,
   "name": "OG Grill #923",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/923.png",
-  "date_generation": 1644047716350,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/923.png",
+  "date_generation": 1644297259397,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "54c632ccf291cd5dd11993c77b04adafbe30c6d8319a59a57914d8b97bf83fdf",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "d8e9fc68ebda3216e1d1661e7f5051a4654f7daea5ef3bddea12fec56a64f475",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
@@ -22,15 +22,15 @@
     },
     {
       "trait_type": "Grill",
-      "value": "Black Gold"
+      "value": "Lightning"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Spiral"
+      "value": "Banana"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Cross"
+      "value": "Color Bomb"
     }
   ],
   "collectionPath": "grills",

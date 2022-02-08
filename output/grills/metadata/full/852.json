@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #852",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/852.png",
-  "date_generation": 1644047709911,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/852.png",
+  "date_generation": 1644297299306,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "45c138d7d181c04e57ca9d5b8ccd76b8463c0a08213cbb817009a0531458e48d",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "97df8810c15572e8a1149efef9d790a643f5d5f8c5fd1a64e8a5dd3611fd6fa8",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Grin"
+      "value": "Jovial"
     },
     {
       "trait_type": "Grill",
-      "value": "Yellow"
+      "value": "Smile"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Lightning"
+      "value": "Banana"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Smile"
+      "value": "Pink Flame"
     }
   ],
   "collectionPath": "grills",
@@ -38,9 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    3,
-    20,
-    23,
-    25
+    8
   ]
 }

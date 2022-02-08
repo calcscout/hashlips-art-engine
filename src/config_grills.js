@@ -49,7 +49,7 @@ const mouthNumbers = {
 // General metadata for Ethereum
 const namePrefix = 'OG Grill';
 const description = 'Collection of NFT grills for your Apes';
-const baseUri = 'ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC';
+const baseUri = 'ipfs://[XXX]';
 
 const solanaMetadata = {
 	symbol: 'YC',
@@ -76,7 +76,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 400,
+		growEditionSizeTo: 450,
 		race: 'Dumbfounded',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -86,7 +86,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 500,
+		growEditionSizeTo: 550,
 		race: 'Phoneme Vuh',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -96,7 +96,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 600,
+		growEditionSizeTo: 640,
 		race: 'Jovial',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -106,7 +106,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 700,
+		growEditionSizeTo: 730,
 		race: 'Small Grin',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -116,7 +116,7 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 780,
+		growEditionSizeTo: 820,
 		race: 'Rage',
 		layersOrder: [
 			{ name: 'Outline' },
@@ -126,18 +126,8 @@ const layerConfigurations = [
 		],
 	},
 	{
-		growEditionSizeTo: 850,
+		growEditionSizeTo: 910,
 		race: 'Phoneme L',
-		layersOrder: [
-			{ name: 'Outline' },
-			{ name: 'Grill' },
-			{ name: 'Inner fill' },
-			{ name: 'Outer fill' },
-		],
-	},
-	{
-		growEditionSizeTo: 930,
-		race: 'Phoneme Oh',
 		layersOrder: [
 			{ name: 'Outline' },
 			{ name: 'Grill' },

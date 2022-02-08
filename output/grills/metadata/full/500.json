@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #500",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/500.png",
-  "date_generation": 1644047724767,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/500.png",
+  "date_generation": 1644297309474,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "904b05ddb6b836fed3ed53e12c6fac87f9f245a985c7733e1db51dceae83fc3b",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "703193ff451ca3fc3e88a1f98790cbeb31175ae8bfc5c7487363c8d0084eea43",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Dumbfounded"
+      "value": "Small Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Black"
+      "value": "Skull"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Smile"
+      "value": "Lightning"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Tye Dye"
+      "value": "Sparkle"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    5
+    9
   ]
 }

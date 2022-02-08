@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #101",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/101.png",
-  "date_generation": 1644047728195,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/101.png",
+  "date_generation": 1644297256805,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "2d691103bea2b3889672e98fd918a794d57677af74452c6d606713db8f07a840",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "97e4ada637aa35a2ce949e9b7bb0a24e55e1c961013a36735129a65bc615ef7b",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Dumbfounded"
+      "value": "Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Banana"
+      "value": "Black Gold"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Banana"
+      "value": "Gold"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Tiger"
+      "value": "8 Bit Rainbow"
     }
   ]
 }

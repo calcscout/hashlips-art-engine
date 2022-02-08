@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #116",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/116.png",
-  "date_generation": 1644047759588,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/116.png",
+  "date_generation": 1644297291730,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "3301c744bc75940e753da4dbc22df12f997b795b8b5734647b2d7ec9dd397b82",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "cd21e209ff2f19b542d581a1309892c1d3126ecf183f42e13c894f033176aaf2",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Rage"
+      "value": "Phoneme Vuh"
     },
     {
       "trait_type": "Grill",
-      "value": "Cross_temp"
+      "value": "Lightning"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Skull_temp"
+      "value": "Banana"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Cross_temp"
+      "value": "Banana"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    10
+    7
   ]
 }

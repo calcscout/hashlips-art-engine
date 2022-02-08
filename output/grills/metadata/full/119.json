@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #119",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/119.png",
-  "date_generation": 1644047727968,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/119.png",
+  "date_generation": 1644297308899,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "c45b69c3c028a928585a0736abf763e51b717004b2c769f22f1f3fcaf08bc18f",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "dc438b6371dda14d11219c63d44d212100c7bed125f66a450b9f2978edcb7ad7",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Dumbfounded"
+      "value": "Small Grin"
     },
     {
       "trait_type": "Grill",
-      "value": "Banana"
+      "value": "Silver"
     },
     {
       "trait_type": "Inner fill",
-      "value": "Skull"
+      "value": "Cross"
     },
     {
       "trait_type": "Outer fill",
-      "value": "Tiger"
+      "value": "Turquoise"
     }
   ],
   "collectionPath": "grills",
@@ -38,6 +38,6 @@
     "bayc"
   ],
   "fittingApes": [
-    5
+    9
   ]
 }

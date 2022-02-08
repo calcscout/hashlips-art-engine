@@ -5,32 +5,32 @@
   "total_issued": 1000,
   "name": "OG Grill #580",
   "description": "Collection of OG Grills for your Apes",
-  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/580.png",
-  "date_generation": 1644047716938,
+  "image": "ipfs://QmckeEHe1dkwzkr33jVvZH5epkxfPDPSRjNFFNRuG1PUFJ/580.png",
+  "date_generation": 1644297284554,
   "date_in_store": "Feb 2022",
   "info": [
     "https://apecessories.com",
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
-  "item_hash": "39866f28adcfb4598fbb14fbb0cb45d91c95fd56ca0d31ea1ded287c12c6d13e",
-  "collection_hash": "d9fe1e334ee36e917f56691b0f7302a1e00645ff22f4a9588f6ac1be7759489e",
+  "item_hash": "ee1ef389212bac3791db09a6d7a4c5be1b30032448bb1cbe765f97fc05ff0128",
+  "collection_hash": "b1cecd6271260569f2af6723ea9318c571601a83df1f0e11416ef92fd4a6f0c9",
   "attributes": [
     {
       "trait_type": "Outline",
-      "value": "Grin"
+      "value": "Dumbfounded"
     },
     {
       "trait_type": "Grill",
-      "value": "Silver"
-    },
-    {
-      "trait_type": "Inner fill",
       "value": "Skull"
     },
     {
+      "trait_type": "Inner fill",
+      "value": "Banana"
+    },
+    {
       "trait_type": "Outer fill",
-      "value": "Cross"
+      "value": "Tye Dye"
     }
   ]
 }
