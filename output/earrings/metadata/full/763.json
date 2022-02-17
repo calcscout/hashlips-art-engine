@@ -4,7 +4,6 @@
   "id": 763,
   "total_issued": 1000,
   "name": "OG Earring #763",
-  "hash": "d5f147c28ce17f2de043efe4b0b24e6698621f7a201b7e6f1be09ac129a67230",
   "description": "Collection of OG Earrings for your Apes",
   "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/763.png",
   "date_generation": 1643303822144,
@@ -14,6 +13,8 @@
     "https://apecessories.store"
   ],
   "production_lab": "web4 OG",
+  "item_hash": "d5f147c28ce17f2de043efe4b0b24e6698621f7a201b7e6f1be09ac129a67230",
+  "collection_hash": "c4d82614722f85e930d985c8f6d7b37670909a868946ea5234812a0ea00d68c0",
   "attributes": [
     {
       "trait_type": "Chain",

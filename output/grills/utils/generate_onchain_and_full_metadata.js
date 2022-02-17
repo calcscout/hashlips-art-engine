@@ -2,7 +2,10 @@ const basePath = process.cwd();
 const crypto = require('crypto');
 const fs = require('fs');
 const { readFile } = require('fs/promises');
-const { hashFromFile, hashFromCollection } = require('./hashGenerator');
+const {
+	hashFromFile,
+	hashFromCollection,
+} = require('../../utils_common/hashGenerator');
 const { grillsMapping } = require('./supporting');
 
 // read initial metadata
@@ -70,7 +73,7 @@ const generateOnchainMetadataObject = async (
 		info,
 		production_lab: productionLab,
 		item_hash: hash,
-		collection_hash: _hashOfCollection,
+
 		attributes: _initialMetadataObject.attributes,
 	};
 };

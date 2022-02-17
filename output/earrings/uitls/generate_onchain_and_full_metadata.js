@@ -2,7 +2,10 @@ const basePath = process.cwd();
 const crypto = require('crypto');
 const fs = require('fs');
 const { readFile } = require('fs/promises');
-const { hashFromFile } = require('./hashGenerator');
+const {
+	hashFromFile,
+	hashFromCollection,
+} = require('../../utils_common/hashGenerator');
 const { splitterFunction } = require('./splitterFunction');
 
 // read initial metadata
@@ -22,11 +25,12 @@ const updateOption = process.argv[2] ? process.argv[2] : option.onchain;
 const collection = 'OG Earrings';
 const namePrefix = 'OG Earring #';
 const description = 'Collection of OG Earrings for your Apes';
-const totalIssued = 1000;
 const artist = 'Apecessories';
 const productionLab = 'web4 OG';
 const productionDate = 'Feb 2022';
 const info = ['https://apecessories.com', 'https://apecessories.store'];
+const totalIssued = initialMedatada.length;
+const imageIPFSCID = 'QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC';
 
 //data for full metadata (in addition to onchain fields)
 const collectionPath = 'earrings';
@@ -35,7 +39,10 @@ const fittingApes = [0]; // zero if it fits all apes
 
 //shape of onchain metadata object
 
-const generateOnchainMetadataObject = async (_initialMetadataObject) => {
+const generateOnchainMetadataObject = async (
+	_initialMetadataObject,
+	_hashOfCollection
+) => {
 	const hash = await hashFromFile(
 		`../img/${_initialMetadataObject.edition}.png`
 	);
@@ -47,13 +54,15 @@ const generateOnchainMetadataObject = async (_initialMetadataObject) => {
 		total_issued: totalIssued,
 		name: `${namePrefix}${_initialMetadataObject.edition}`,
 		// dna: _initialMetadataObject.dna,
-		hash,
+
 		description,
-		image: _initialMetadataObject.image,
+		image: `ipfs://${imageIPFSCID}/${_initialMetadataObject.edition}.png`,
 		date_generation: _initialMetadataObject.date,
 		date_in_store: productionDate,
 		info,
 		production_lab: productionLab,
+		item_hash: hash,
+		collection_hash: _hashOfCollection,
 		attributes: [
 			_initialMetadataObject.attributes[0],
 			...splitterFunction(_initialMetadataObject.attributes[1].value),
@@ -69,9 +78,13 @@ const generateOnchainMetadataObject = async (_initialMetadataObject) => {
 // 	}
 // };
 
-const generateFullMetadataObject = async (_initialMetadataObject) => {
+const generateFullMetadataObject = async (
+	_initialMetadataObject,
+	_hashOfCollection
+) => {
 	const onChainMetadata = await generateOnchainMetadataObject(
-		_initialMetadataObject
+		_initialMetadataObject,
+		_hashOfCollection
 	);
 	return {
 		...onChainMetadata,
@@ -81,15 +94,15 @@ const generateFullMetadataObject = async (_initialMetadataObject) => {
 	};
 };
 
-const generate = async (_initialMedatada) => {
+const generate = async (_initialMedatada, _hashOfCollection) => {
 	let resultingMetadataArray = [];
 
 	for (let i = 0; i < initialMedatada.length; i++) {
 		const item = _initialMedatada[i];
 		const resultingMetadataObject =
 			updateOption === option.onchain
-				? await generateOnchainMetadataObject(item)
-				: await generateFullMetadataObject(item);
+				? await generateOnchainMetadataObject(item, _hashOfCollection)
+				: await generateFullMetadataObject(item, _hashOfCollection);
 		fs.writeFileSync(
 			`../metadata/${updateOption}/${item.edition}.json`,
 			JSON.stringify(resultingMetadataObject, null, 2)
@@ -97,10 +110,20 @@ const generate = async (_initialMedatada) => {
 		resultingMetadataArray.push(resultingMetadataObject);
 	}
 
+	const hashOfCollection = hashFromCollection(resultingMetadataArray);
+
 	fs.writeFileSync(
 		`../metadata/${updateOption}/_metadata.json`,
 		JSON.stringify(resultingMetadataArray, null, 2)
 	);
+
+	return hashOfCollection;
 };
 
-generate(initialMedatada);
+const generateWithCollectionHash = async () => {
+	const hashInitial = '';
+	const hashNew = await generate(initialMedatada, hashInitial);
+	await generate(initialMedatada, hashNew);
+};
+
+generateWithCollectionHash();
