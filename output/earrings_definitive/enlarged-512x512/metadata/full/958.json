@@ -1,0 +1,39 @@
+{
+  "collection": "OG Earrings",
+  "artist": "Apecessories",
+  "id": 958,
+  "total_issued": 1000,
+  "name": "OG Earring #958",
+  "description": "NFT Earring for your Ape or other NFT from your collection. You decide how to use it.",
+  "image": "ipfs://QmbGc49mCcoWa1wTrTyqKdrB3yqL5QjuADoXRhXYT7KywJ/958.png",
+  "date_generation": 1645218254812,
+  "date_in_store": "Feb 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio, Lda",
+  "item_hash": "553e321c4e271430f7e45f489dd838a288a14ab5bc3b449c7eaf66faad0179e0",
+  "collection_hash": "72b108a39c565cfebcb47f46fbd8533468ae8d62347340594717227ad5859dd1",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Tye Dye"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Rasta"
+    }
+  ],
+  "collectionPath": "earrings",
+  "fittingApeCollections": [
+    "bayc"
+  ],
+  "fittingApes": [
+    0
+  ]
+}

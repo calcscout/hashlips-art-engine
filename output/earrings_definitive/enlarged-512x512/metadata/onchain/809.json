@@ -1,0 +1,32 @@
+{
+  "collection": "OG Earrings",
+  "artist": "Apecessories",
+  "id": 809,
+  "total_issued": 1000,
+  "name": "OG Earring #809",
+  "description": "NFT Earring for your Ape or other NFT from your collection. You decide how to use it.",
+  "image": "ipfs://QmbGc49mCcoWa1wTrTyqKdrB3yqL5QjuADoXRhXYT7KywJ/809.png",
+  "date_generation": 1645218247092,
+  "date_in_store": "Feb 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio, Lda",
+  "item_hash": "6ba48aa1f75517f85deaac5126c541d0c564c38759d8ddddcd296bbf70817b63",
+  "collection_hash": "72b108a39c565cfebcb47f46fbd8533468ae8d62347340594717227ad5859dd1",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Water Gun"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Gold"
+    }
+  ]
+}

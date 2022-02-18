@@ -25,6 +25,7 @@
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.8.0",
+    "csv-writer": "^1.6.0",
     "gif-encoder-2": "^1.0.5",
     "image-hash": "^5.0.1",
     "imghash": "^0.0.9",

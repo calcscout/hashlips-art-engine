@@ -1,5 +1,5 @@
 //here you define which config to use
-const configToUse = './config_grills';
+const configToUse = './config_earrings_definitive';
 
 const {
 	format,
