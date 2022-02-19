@@ -7,8 +7,8 @@ const layersDir = `./layers`;
 const inputDir = `./layers`;
 
 const format = {
-	width: 631,
-	height: 631,
+	width: 1200,
+	height: 1200,
 	smoothing: true,
 };
 
