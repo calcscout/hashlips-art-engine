@@ -12,6 +12,11 @@ const { splitterFunction } = require('./splitterFunction');
 let rawdata = fs.readFileSync(`../metadata/initial/_metadata.json`);
 let initialMedatada = JSON.parse(rawdata);
 
+// read data scrapped from opensea after collection is published
+let openseaDataRaw = fs.readFileSync(`../json/opensea_ids.json`);
+let openseaData = JSON.parse(openseaDataRaw);
+console.log(openseaData);
+
 const option = {
 	onchain: 'onchain', //updated based on initial metadata
 	full: 'full', //updated based on initial metadata
@@ -82,7 +87,8 @@ const generateOnchainMetadataObject = async (
 
 const generateFullMetadataObject = async (
 	_initialMetadataObject,
-	_hashOfCollection
+	_hashOfCollection,
+	_id
 ) => {
 	const onChainMetadata = await generateOnchainMetadataObject(
 		_initialMetadataObject,
@@ -93,6 +99,8 @@ const generateFullMetadataObject = async (
 		collectionPath,
 		fittingApeCollections,
 		fittingApes,
+		opensea_id: openseaData[_id].id_opensea,
+		opensea_contract: openseaData[_id].contract_opensea,
 	};
 };
 
@@ -104,7 +112,7 @@ const generate = async (_initialMedatada, _hashOfCollection) => {
 		const resultingMetadataObject =
 			updateOption === option.onchain
 				? await generateOnchainMetadataObject(item, _hashOfCollection)
-				: await generateFullMetadataObject(item, _hashOfCollection);
+				: await generateFullMetadataObject(item, _hashOfCollection, i);
 		fs.writeFileSync(
 			`../metadata/${updateOption}/${item.edition}.json`,
 			JSON.stringify(resultingMetadataObject, null, 2)
