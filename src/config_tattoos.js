@@ -66,79 +66,79 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
 	{
-		growEditionSizeTo: 100,
+		growEditionSizeTo: 10,
 		race: 'Broken',
 		layersOrder: [{ name: 'Bones' }, { name: 'Broken' }],
 	},
 	{
-		growEditionSizeTo: 200,
+		growEditionSizeTo: 20,
 		race: 'Dagger',
 		layersOrder: [
-			{ name: 'Outline' },
-			{ name: 'Handle Strap' },
-			{ name: 'Handle' },
-			{ name: 'Knife Shield' },
 			{ name: 'Blade' },
+			{ name: 'Knife Shield' },
+			{ name: 'Handle' },
+			{ name: 'Handle Strap' },
+			{ name: 'Outline' },
 		],
 	},
 	{
-		growEditionSizeTo: 344,
+		growEditionSizeTo: 30,
 		race: 'Dice',
 		layersOrder: [
-			{ name: 'Outline' },
-			{ name: 'Front Dice' },
 			{ name: 'Back Dice' },
-		],
-	},
-	{
-		growEditionSizeTo: 424,
-		race: 'Eightball',
-		layersOrder: [{ name: 'Ball' }, { name: 'Circle' }, { name: 'Eight' }],
-	},
-	{
-		growEditionSizeTo: 524,
-		race: 'Knife Heart',
-		layersOrder: [
+			{ name: 'Front Dice' },
 			{ name: 'Outline' },
-			{ name: 'Heart' },
-			{ name: 'Handle' },
-			{ name: 'Sword' },
 		],
 	},
-	{
-		growEditionSizeTo: 574,
-		race: 'Mom',
-		layersOrder: [{ name: 'Mom' }, { name: 'Heart' }],
-	},
-	{
-		growEditionSizeTo: 664,
-		race: 'OG Fist',
-		layersOrder: [{ name: 'OG' }, { name: 'Outline' }, { name: 'Hair' }],
-	},
-	{
-		growEditionSizeTo: 764,
-		race: 'Skull n Bones',
-		layersOrder: [{ name: 'Outline' }, { name: 'Skull' }, { name: 'Bone' }],
-	},
-	{
-		growEditionSizeTo: 975,
-		race: 'Sword',
-		layersOrder: [
-			{ name: 'Outline' },
-			{ name: 'Blood Drip' },
-			{ name: 'Sword Fill' },
-			{ name: 'Handle' },
-		],
-	},
-	{
-		growEditionSizeTo: 1000,
-		race: 'Tear Drop',
-		layersOrder: [
-			{ name: 'Outline' },
-			{ name: 'Big Drop' },
-			{ name: 'Little Drop' },
-		],
-	},
+	// {
+	// 	growEditionSizeTo: 424,
+	// 	race: 'Eightball',
+	// 	layersOrder: [{ name: 'Ball' }, { name: 'Circle' }, { name: 'Eight' }],
+	// },
+	// {
+	// 	growEditionSizeTo: 543,
+	// 	race: 'Knife Heart',
+	// 	layersOrder: [
+	// 		{ name: 'Sword' },
+	// 		{ name: 'Handle' },
+	// 		{ name: 'Heart' },
+	// 		{ name: 'Outline' },
+	// 	],
+	// },
+	// {
+	// 	growEditionSizeTo: 593,
+	// 	race: 'Mom',
+	// 	layersOrder: [{ name: 'Heart' }, { name: 'Mom' }],
+	// },
+	// {
+	// 	growEditionSizeTo: 683,
+	// 	race: 'OG Fist',
+	// 	layersOrder: [{ name: 'Hair' }, { name: 'Outline' }, { name: 'OG' }],
+	// },
+	// {
+	// 	growEditionSizeTo: 783,
+	// 	race: 'Skull n Bones',
+	// 	layersOrder: [{ name: 'Bone' }, { name: 'Skull' }, { name: 'Outline' }],
+	// },
+	// {
+	// 	growEditionSizeTo: 975,
+	// 	race: 'Sword',
+	// 	layersOrder: [
+	// 		{ name: 'Handle' },
+	// 		{ name: 'Sword Fill' },
+	// 		{ name: 'Blood Drip' },
+	// 		{ name: 'Outline' },
+	// 	],
+	// },
+	// {
+	// 	growEditionSizeTo: 1000,
+	// 	race: 'Tear Drop',
+	// 	layersOrder: [
+	// 		{ name: 'Little Drop' },
+	// 		{ name: 'Big Drop' },
+	// 		{ name: 'Outline' },
+	// 	],
+	// },
 ];
 
 const shuffleLayerConfigurations = true;
@@ -186,7 +186,7 @@ const extraMetadata = {};
 
 const rarityDelimiter = '#';
 
-const uniqueDnaTorrance = 10000;
+const uniqueDnaTorrance = 1000000;
 
 const preview = {
 	thumbPerRow: 5,
