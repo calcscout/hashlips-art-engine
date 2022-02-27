@@ -1,0 +1,39 @@
+{
+  "collection": "OG Tattoos",
+  "artist": "Apecessories",
+  "id": 3,
+  "total_issued": 30,
+  "name": "OG Tattos #3",
+  "description": "Collection of OG Tattoos for your Apes and other NFTs",
+  "image": "ipfs://QmS3QzS8yqVUAHXBMFzcEKUHzPAnZos712GuHguPJvT3xC/3.png",
+  "date_generation": 1645981017593,
+  "date_in_store": "Feb 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio",
+  "item_hash": "56b44e048b8d9e6aa24772e2a85ee4748dee23a4a93b172d56c9cbd26c4966fc",
+  "collection_hash": "de0c0a1e05b260ca49d40d8c43590446c974661217a392952a316fa1bec023b0",
+  "attributes": [
+    {
+      "trait_type": "Tattoo",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Bones",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Broken",
+      "value": "Banana"
+    }
+  ],
+  "collectionPath": "tattoos",
+  "fittingApeCollections": [
+    "bayc"
+  ],
+  "fittingApes": [
+    0
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "collection": "OG Earrings",
+  "artist": "Apecessories",
+  "id": 404,
+  "total_issued": 1000,
+  "name": "OG Earring #404",
+  "description": "NFT Earring for your Ape or other NFT from your collection. You decide how to use it.",
+  "image": "ipfs://QmbGc49mCcoWa1wTrTyqKdrB3yqL5QjuADoXRhXYT7KywJ/404.png",
+  "date_generation": 1645218227262,
+  "date_in_store": "Feb 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio, Lda",
+  "item_hash": "1c322b0f4c1b793df3420f310c097e463cb3a5a7faed8bc1ea154041bb7b41a2",
+  "collection_hash": "72b108a39c565cfebcb47f46fbd8533468ae8d62347340594717227ad5859dd1",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Yellow Dots"
+    }
+  ],
+  "collectionPath": "earrings",
+  "fittingApeCollections": [
+    "bayc"
+  ],
+  "fittingApes": [
+    0
+  ],
+  "opensea_id": "2987503284076859872436542778939479470751586599002203531735459397868441305089",
+  "opensea_contract": "0x495f947276749ce646f68ac8c248420045cb7b5e"
+}

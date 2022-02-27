@@ -1,0 +1,41 @@
+{
+  "collection": "OG Earrings",
+  "artist": "Apecessories",
+  "id": 872,
+  "total_issued": 1000,
+  "name": "OG Earring #872",
+  "description": "NFT Earring for your Ape or other NFT from your collection. You decide how to use it.",
+  "image": "ipfs://QmbGc49mCcoWa1wTrTyqKdrB3yqL5QjuADoXRhXYT7KywJ/872.png",
+  "date_generation": 1645218250425,
+  "date_in_store": "Feb 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio, Lda",
+  "item_hash": "8acd5aa1afdc8893bda3d69b1e7615182ce77ba593a2f400bac5e3909a34464d",
+  "collection_hash": "72b108a39c565cfebcb47f46fbd8533468ae8d62347340594717227ad5859dd1",
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Yellow Dot"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "Yellow Zebra"
+    }
+  ],
+  "collectionPath": "earrings",
+  "fittingApeCollections": [
+    "bayc"
+  ],
+  "fittingApes": [
+    0
+  ],
+  "opensea_id": "2987503284076859872436542778939479470751586599002203531735459905842813337601",
+  "opensea_contract": "0x495f947276749ce646f68ac8c248420045cb7b5e"
+}

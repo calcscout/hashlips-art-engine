@@ -1,0 +1,912 @@
+[
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 9,
+    "id": "tattoos-9",
+    "name": "OG Tattoos #9",
+    "dna": "535fbba2a9348139e3541cfaafcf14a7b7025166",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/9.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981017469,
+    "race": "Broken",
+    "attributes": [
+      {
+        "trait_type": "Bones",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "Broken",
+        "value": "Gold"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 12,
+    "id": "tattoos-12",
+    "name": "OG Tattoos #12",
+    "dna": "1641d714dc7fe3a84b9f542543d084be0ba61dc2",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/12.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981017535,
+    "race": "Broken",
+    "attributes": [
+      {
+        "trait_type": "Bones",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Broken",
+        "value": "Spiral"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 3,
+    "id": "tattoos-3",
+    "name": "OG Tattoos #3",
+    "dna": "e8d8ca02b576d909eca3e08b23957ebc2f16fd8a",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/3.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981017593,
+    "race": "Broken",
+    "attributes": [
+      {
+        "trait_type": "Bones",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Broken",
+        "value": "Banana"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 16,
+    "id": "tattoos-16",
+    "name": "OG Tattoos #16",
+    "dna": "33c4b5d7e6950118ae7896bf97c51f44f53dd6e6",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/16.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981017654,
+    "race": "Broken",
+    "attributes": [
+      {
+        "trait_type": "Bones",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Broken",
+        "value": "Gold"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 20,
+    "id": "tattoos-20",
+    "name": "OG Tattoos #20",
+    "dna": "389a9c06fe3b3580d2711302b3bcf717c7d783c4",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/20.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981017706,
+    "race": "Broken",
+    "attributes": [
+      {
+        "trait_type": "Bones",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Broken",
+        "value": "Red"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 4,
+    "id": "tattoos-4",
+    "name": "OG Tattoos #4",
+    "dna": "06e269a9c4fea48979d87681455482dad99df93a",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/4.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981017764,
+    "race": "Broken",
+    "attributes": [
+      {
+        "trait_type": "Bones",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Broken",
+        "value": "Green"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 29,
+    "id": "tattoos-29",
+    "name": "OG Tattoos #29",
+    "dna": "936cb8114a215c976477d1b3a24fcaa04b222c45",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/29.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981017804,
+    "race": "Broken",
+    "attributes": [
+      {
+        "trait_type": "Bones",
+        "value": "Spiral"
+      },
+      {
+        "trait_type": "Broken",
+        "value": "Banana"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 8,
+    "id": "tattoos-8",
+    "name": "OG Tattoos #8",
+    "dna": "df00f93ee6645134189f4976f32f695a7708d53d",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/8.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981017852,
+    "race": "Broken",
+    "attributes": [
+      {
+        "trait_type": "Bones",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Broken",
+        "value": "Skull"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 17,
+    "id": "tattoos-17",
+    "name": "OG Tattoos #17",
+    "dna": "0620f6c99f6bf5d9b7ce871ea486dcb4933d616e",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/17.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981017912,
+    "race": "Broken",
+    "attributes": [
+      {
+        "trait_type": "Bones",
+        "value": "Sparkle"
+      },
+      {
+        "trait_type": "Broken",
+        "value": "Lightning"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 28,
+    "id": "tattoos-28",
+    "name": "OG Tattoos #28",
+    "dna": "58645dc5f9ce0c866cf9bd1a27590248d48fef81",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/28.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981017978,
+    "race": "Broken",
+    "attributes": [
+      {
+        "trait_type": "Bones",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Broken",
+        "value": "Cross"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 19,
+    "id": "tattoos-19",
+    "name": "OG Tattoos #19",
+    "dna": "233ebf6c8f4c31cd2b0843940093836f932925af",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/19.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981018068,
+    "race": "Dagger",
+    "attributes": [
+      {
+        "trait_type": "Blade",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "Knife Shield",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Handle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Handle Strap",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 18,
+    "id": "tattoos-18",
+    "name": "OG Tattoos #18",
+    "dna": "da7f076cb46fa745ac1b06df66c6837f0066ba6e",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/18.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981018130,
+    "race": "Dagger",
+    "attributes": [
+      {
+        "trait_type": "Blade",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Knife Shield",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "Handle",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Handle Strap",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 14,
+    "id": "tattoos-14",
+    "name": "OG Tattoos #14",
+    "dna": "7cf1d9145281759b3086435629b445f699c932fc",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/14.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981018191,
+    "race": "Dagger",
+    "attributes": [
+      {
+        "trait_type": "Blade",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Knife Shield",
+        "value": "Spiral"
+      },
+      {
+        "trait_type": "Handle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Handle Strap",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 11,
+    "id": "tattoos-11",
+    "name": "OG Tattoos #11",
+    "dna": "1fe63db938a115fb253ceb8c13cdeb04ea9c345d",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/11.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981018256,
+    "race": "Dagger",
+    "attributes": [
+      {
+        "trait_type": "Blade",
+        "value": "Spiral"
+      },
+      {
+        "trait_type": "Knife Shield",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Handle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Handle Strap",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 5,
+    "id": "tattoos-5",
+    "name": "OG Tattoos #5",
+    "dna": "e6bfd90fd5b6ec9da7acacaec05c62e2735540e6",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/5.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981018315,
+    "race": "Dagger",
+    "attributes": [
+      {
+        "trait_type": "Blade",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Knife Shield",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Handle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Handle Strap",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 22,
+    "id": "tattoos-22",
+    "name": "OG Tattoos #22",
+    "dna": "6fa7bdaf1105fd3cbe398ab5f14ccaf7b8237811",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/22.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981018374,
+    "race": "Dagger",
+    "attributes": [
+      {
+        "trait_type": "Blade",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Knife Shield",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Handle",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Handle Strap",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 27,
+    "id": "tattoos-27",
+    "name": "OG Tattoos #27",
+    "dna": "32661d8ecadd0e5076bd33f7be58e931f9fe7f25",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/27.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981018442,
+    "race": "Dagger",
+    "attributes": [
+      {
+        "trait_type": "Blade",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Knife Shield",
+        "value": "Spiral"
+      },
+      {
+        "trait_type": "Handle",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Handle Strap",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 2,
+    "id": "tattoos-2",
+    "name": "OG Tattoos #2",
+    "dna": "024cf2c29c8d4307cce346bb3443fa45bdfd63ca",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/2.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981018521,
+    "race": "Dagger",
+    "attributes": [
+      {
+        "trait_type": "Blade",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Knife Shield",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "Handle",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Handle Strap",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 10,
+    "id": "tattoos-10",
+    "name": "OG Tattoos #10",
+    "dna": "0d66eb36fb1ba77692e1740b6a4ea3bd211232ff",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/10.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981018616,
+    "race": "Dagger",
+    "attributes": [
+      {
+        "trait_type": "Blade",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "Knife Shield",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Handle",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Handle Strap",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 6,
+    "id": "tattoos-6",
+    "name": "OG Tattoos #6",
+    "dna": "b3ee99a097673f3eab5261aabc76df8ad781c564",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/6.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981018740,
+    "race": "Dagger",
+    "attributes": [
+      {
+        "trait_type": "Blade",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Knife Shield",
+        "value": "Spiral"
+      },
+      {
+        "trait_type": "Handle",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Handle Strap",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 21,
+    "id": "tattoos-21",
+    "name": "OG Tattoos #21",
+    "dna": "89bdef5ed64b7b0989d8f5552793278a7cce464e",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/21.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981018847,
+    "race": "Dice",
+    "attributes": [
+      {
+        "trait_type": "Back Dice",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Front Dice",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 1,
+    "id": "tattoos-1",
+    "name": "OG Tattoos #1",
+    "dna": "f9c9e7c97af820d552fb89ba1d3e48df5a4b6d10",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/1.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981018932,
+    "race": "Dice",
+    "attributes": [
+      {
+        "trait_type": "Back Dice",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "Front Dice",
+        "value": "Cow"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 13,
+    "id": "tattoos-13",
+    "name": "OG Tattoos #13",
+    "dna": "f496b2449a193bc62ac993cfeb9644994e04e7d5",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/13.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981019013,
+    "race": "Dice",
+    "attributes": [
+      {
+        "trait_type": "Back Dice",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "Front Dice",
+        "value": "Skull"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 25,
+    "id": "tattoos-25",
+    "name": "OG Tattoos #25",
+    "dna": "1ec1f460874e2be151e16815a88b55e6220bf74b",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/25.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981019105,
+    "race": "Dice",
+    "attributes": [
+      {
+        "trait_type": "Back Dice",
+        "value": "Cow"
+      },
+      {
+        "trait_type": "Front Dice",
+        "value": "Cow"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 24,
+    "id": "tattoos-24",
+    "name": "OG Tattoos #24",
+    "dna": "03797b919a2d53e13444303e2da825df76c1d0d6",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/24.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981019183,
+    "race": "Dice",
+    "attributes": [
+      {
+        "trait_type": "Back Dice",
+        "value": "White"
+      },
+      {
+        "trait_type": "Front Dice",
+        "value": "Sparkle"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 7,
+    "id": "tattoos-7",
+    "name": "OG Tattoos #7",
+    "dna": "da035dd588bc1e4977482a9f6a0be73163e09a3c",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/7.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981019266,
+    "race": "Dice",
+    "attributes": [
+      {
+        "trait_type": "Back Dice",
+        "value": "Rainbow"
+      },
+      {
+        "trait_type": "Front Dice",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 26,
+    "id": "tattoos-26",
+    "name": "OG Tattoos #26",
+    "dna": "6cff87d40bf745d7109a3dcf976295bd21268738",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/26.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981019326,
+    "race": "Dice",
+    "attributes": [
+      {
+        "trait_type": "Back Dice",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "Front Dice",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 15,
+    "id": "tattoos-15",
+    "name": "OG Tattoos #15",
+    "dna": "5a8831cd7ebd923a3c8c9195d38a20cd7ff79967",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/15.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981019381,
+    "race": "Dice",
+    "attributes": [
+      {
+        "trait_type": "Back Dice",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Front Dice",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 23,
+    "id": "tattoos-23",
+    "name": "OG Tattoos #23",
+    "dna": "bc9f2302ab419b9369429dc2c680fe4397a0aaac",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/23.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981019431,
+    "race": "Dice",
+    "attributes": [
+      {
+        "trait_type": "Back Dice",
+        "value": "Spiral"
+      },
+      {
+        "trait_type": "Front Dice",
+        "value": "Cow"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  },
+  {
+    "collection": "OG Tattoos",
+    "folder": "tattoos",
+    "edition": 30,
+    "id": "tattoos-30",
+    "name": "OG Tattoos #30",
+    "dna": "8a3b35cf3a6a2b2995db348d62d270d2101e0e5b",
+    "description": "Collection of NFT tattoos for your Apes and other NFTs",
+    "image": "ipfs://[XXX]/30.png",
+    "apes": [
+      0
+    ],
+    "date": 1645981019482,
+    "race": "Dice",
+    "attributes": [
+      {
+        "trait_type": "Back Dice",
+        "value": "Spiral"
+      },
+      {
+        "trait_type": "Front Dice",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Black"
+      }
+    ]
+  }
+]

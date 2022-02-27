@@ -148,7 +148,7 @@ const addMetadata = (_dna, _edition, _race = '') => {
 		apes: containRaces ? [0] : suitingMouthNumbers,
 		date: dateTime,
 		...extraMetadata,
-		type: _race,
+		race: _race,
 		attributes: attributesList,
 	};
 	if (network == NETWORK.sol) {
