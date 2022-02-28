@@ -1,0 +1,39 @@
+{
+  "collection": "OG Tattoos",
+  "artist": "Apecessories",
+  "id": 691,
+  "total_issued": 1000,
+  "name": "OG Tattos #691",
+  "description": "Collection of OG Tattoos for your Apes and other NFTs",
+  "image": "ipfs://QmZNsRgbEodb41k4SjoNshPXGKe7SkU2ZjvCcuQgCFnB7a/691.png",
+  "date_generation": 1646025880288,
+  "date_in_store": "Mar 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio",
+  "item_hash": "2abdc6e24045046b4b1f4b4eb90063f7d48bbec2a0ed2973dc85791313ec7899",
+  "collection_hash": "8aef8bbb033fb87793e08c58e984e27f240d2be4914c67c143e02a290663cac0",
+  "attributes": [
+    {
+      "trait_type": "Tattoo",
+      "value": "Tear Drop"
+    },
+    {
+      "trait_type": "Little Drop",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Big Drop",
+      "value": "Smile"
+    }
+  ],
+  "collectionPath": "tattoos",
+  "fittingApeCollections": [
+    "bayc"
+  ],
+  "fittingApes": [
+    0
+  ]
+}

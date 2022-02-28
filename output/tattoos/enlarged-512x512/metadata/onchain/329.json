@@ -1,0 +1,32 @@
+{
+  "collection": "OG Tattoos",
+  "artist": "Apecessories",
+  "id": 329,
+  "total_issued": 1000,
+  "name": "OG Tattos #329",
+  "description": "Collection of OG Tattoos for your Apes and other NFTs",
+  "image": "ipfs://QmZNsRgbEodb41k4SjoNshPXGKe7SkU2ZjvCcuQgCFnB7a/329.png",
+  "date_generation": 1646025848983,
+  "date_in_store": "Mar 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio",
+  "item_hash": "514eb5cc260e61c45d93dcd6cd26836d2f7f989ad3ce081a98def683e3eb9806",
+  "collection_hash": "8aef8bbb033fb87793e08c58e984e27f240d2be4914c67c143e02a290663cac0",
+  "attributes": [
+    {
+      "trait_type": "Tattoo",
+      "value": "Mom"
+    },
+    {
+      "trait_type": "Heart",
+      "value": "Sparkle"
+    },
+    {
+      "trait_type": "Mom",
+      "value": "Sparkle"
+    }
+  ]
+}

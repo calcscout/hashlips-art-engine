@@ -1,0 +1,43 @@
+{
+  "collection": "OG Tattoos",
+  "artist": "Apecessories",
+  "id": 396,
+  "total_issued": 1000,
+  "name": "OG Tattos #396",
+  "description": "Collection of OG Tattoos for your Apes and other NFTs",
+  "image": "ipfs://QmZNsRgbEodb41k4SjoNshPXGKe7SkU2ZjvCcuQgCFnB7a/396.png",
+  "date_generation": 1646025839685,
+  "date_in_store": "Mar 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio",
+  "item_hash": "649d5c3c6617a4401aefea653c02419faeb4da4a178cd41dcada24d9c7befbb7",
+  "collection_hash": "8aef8bbb033fb87793e08c58e984e27f240d2be4914c67c143e02a290663cac0",
+  "attributes": [
+    {
+      "trait_type": "Tattoo",
+      "value": "Knife Heart"
+    },
+    {
+      "trait_type": "Sword",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Heart",
+      "value": "Skull"
+    }
+  ],
+  "collectionPath": "tattoos",
+  "fittingApeCollections": [
+    "bayc"
+  ],
+  "fittingApes": [
+    0
+  ]
+}

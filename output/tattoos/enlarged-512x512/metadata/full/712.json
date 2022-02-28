@@ -1,0 +1,43 @@
+{
+  "collection": "OG Tattoos",
+  "artist": "Apecessories",
+  "id": 712,
+  "total_issued": 1000,
+  "name": "OG Tattos #712",
+  "description": "Collection of OG Tattoos for your Apes and other NFTs",
+  "image": "ipfs://QmZNsRgbEodb41k4SjoNshPXGKe7SkU2ZjvCcuQgCFnB7a/712.png",
+  "date_generation": 1646025834030,
+  "date_in_store": "Mar 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio",
+  "item_hash": "032b863669c8724f5b9aea7470468f11261d10fc3774f709dd23af020be1577a",
+  "collection_hash": "8aef8bbb033fb87793e08c58e984e27f240d2be4914c67c143e02a290663cac0",
+  "attributes": [
+    {
+      "trait_type": "Tattoo",
+      "value": "Eightball"
+    },
+    {
+      "trait_type": "Ball",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Circle",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eight",
+      "value": "Rainbow"
+    }
+  ],
+  "collectionPath": "tattoos",
+  "fittingApeCollections": [
+    "bayc"
+  ],
+  "fittingApes": [
+    0
+  ]
+}

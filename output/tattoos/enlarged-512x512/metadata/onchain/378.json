@@ -1,0 +1,32 @@
+{
+  "collection": "OG Tattoos",
+  "artist": "Apecessories",
+  "id": 378,
+  "total_issued": 1000,
+  "name": "OG Tattos #378",
+  "description": "Collection of OG Tattoos for your Apes and other NFTs",
+  "image": "ipfs://QmZNsRgbEodb41k4SjoNshPXGKe7SkU2ZjvCcuQgCFnB7a/378.png",
+  "date_generation": 1646025863883,
+  "date_in_store": "Mar 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio",
+  "item_hash": "3dd28db65dc32e4d39ab143a7c2451d41e236989c9cfb8aeee20ed1befead758",
+  "collection_hash": "8aef8bbb033fb87793e08c58e984e27f240d2be4914c67c143e02a290663cac0",
+  "attributes": [
+    {
+      "trait_type": "Tattoo",
+      "value": "Skull n Bones"
+    },
+    {
+      "trait_type": "Bone",
+      "value": "Turquios"
+    },
+    {
+      "trait_type": "Skull",
+      "value": "Lightning"
+    }
+  ]
+}

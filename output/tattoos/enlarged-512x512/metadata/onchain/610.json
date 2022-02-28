@@ -1,0 +1,32 @@
+{
+  "collection": "OG Tattoos",
+  "artist": "Apecessories",
+  "id": 610,
+  "total_issued": 1000,
+  "name": "OG Tattos #610",
+  "description": "Collection of OG Tattoos for your Apes and other NFTs",
+  "image": "ipfs://QmZNsRgbEodb41k4SjoNshPXGKe7SkU2ZjvCcuQgCFnB7a/610.png",
+  "date_generation": 1646025852756,
+  "date_in_store": "Mar 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio",
+  "item_hash": "18cf3adb8e92595e4288768a53e5e1283cdd53d803eafa0d8b069e10d257dfcd",
+  "collection_hash": "8aef8bbb033fb87793e08c58e984e27f240d2be4914c67c143e02a290663cac0",
+  "attributes": [
+    {
+      "trait_type": "Tattoo",
+      "value": "OG Fist"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sparkle"
+    },
+    {
+      "trait_type": "OG",
+      "value": "White"
+    }
+  ]
+}

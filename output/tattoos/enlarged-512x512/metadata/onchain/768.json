@@ -1,0 +1,32 @@
+{
+  "collection": "OG Tattoos",
+  "artist": "Apecessories",
+  "id": 768,
+  "total_issued": 1000,
+  "name": "OG Tattos #768",
+  "description": "Collection of OG Tattoos for your Apes and other NFTs",
+  "image": "ipfs://QmZNsRgbEodb41k4SjoNshPXGKe7SkU2ZjvCcuQgCFnB7a/768.png",
+  "date_generation": 1646025798629,
+  "date_in_store": "Mar 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio",
+  "item_hash": "56dd70bbbf3b9779791c8d35ec1919806f29f50f05393a5a84ff1c8021641d66",
+  "collection_hash": "8aef8bbb033fb87793e08c58e984e27f240d2be4914c67c143e02a290663cac0",
+  "attributes": [
+    {
+      "trait_type": "Tattoo",
+      "value": "Broken"
+    },
+    {
+      "trait_type": "Bones",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Broken",
+      "value": "Green"
+    }
+  ]
+}

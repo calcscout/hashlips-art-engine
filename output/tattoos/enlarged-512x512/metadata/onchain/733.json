@@ -1,0 +1,36 @@
+{
+  "collection": "OG Tattoos",
+  "artist": "Apecessories",
+  "id": 733,
+  "total_issued": 1000,
+  "name": "OG Tattos #733",
+  "description": "Collection of OG Tattoos for your Apes and other NFTs",
+  "image": "ipfs://QmZNsRgbEodb41k4SjoNshPXGKe7SkU2ZjvCcuQgCFnB7a/733.png",
+  "date_generation": 1646025871638,
+  "date_in_store": "Mar 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio",
+  "item_hash": "f271df6b6133e3aa93af76da6ac3a6095ff09ce96f0345a418bdf20bb78d7fb6",
+  "collection_hash": "8aef8bbb033fb87793e08c58e984e27f240d2be4914c67c143e02a290663cac0",
+  "attributes": [
+    {
+      "trait_type": "Tattoo",
+      "value": "Sword"
+    },
+    {
+      "trait_type": "Handle",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Sword Fill",
+      "value": "Spiral"
+    },
+    {
+      "trait_type": "Blood Drip",
+      "value": "Gold"
+    }
+  ]
+}
