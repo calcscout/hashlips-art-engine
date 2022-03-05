@@ -11,6 +11,12 @@ const {
 let rawdata = fs.readFileSync(`../metadata/initial/_metadata.json`);
 let initialMedatada = JSON.parse(rawdata);
 
+// read data scrapped from opensea after collection is published
+// should be ordered from 1 to 1000!!!
+let openseaDataRaw = fs.readFileSync(`../opensea/tattoosOpenSeaClean.json`);
+let openseaData = JSON.parse(openseaDataRaw);
+console.log(openseaData);
+
 const option = {
 	onchain: 'onchain', //updated based on initial metadata
 	full: 'full', //updated based on initial metadata
@@ -78,7 +84,8 @@ const generateOnchainMetadataObject = async (
 
 const generateFullMetadataObject = async (
 	_initialMetadataObject,
-	_hashOfCollection
+	_hashOfCollection,
+	_id
 ) => {
 	const onChainMetadata = await generateOnchainMetadataObject(
 		_initialMetadataObject,
@@ -89,6 +96,8 @@ const generateFullMetadataObject = async (
 		collectionPath,
 		fittingApeCollections,
 		fittingApes,
+		opensea_id: openseaData[_id].token_id,
+		opensea_contract: openseaData[_id].asset_contract_address,
 	};
 };
 
@@ -100,7 +109,7 @@ const generate = async (_initialMedatada, _hashOfCollection) => {
 		const resultingMetadataObject =
 			updateOption === option.onchain
 				? await generateOnchainMetadataObject(item, _hashOfCollection)
-				: await generateFullMetadataObject(item, _hashOfCollection);
+				: await generateFullMetadataObject(item, _hashOfCollection, i);
 		fs.writeFileSync(
 			`../metadata/${updateOption}/${item.edition}.json`,
 			JSON.stringify(resultingMetadataObject, null, 2)
