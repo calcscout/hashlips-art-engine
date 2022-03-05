@@ -1,0 +1,36 @@
+{
+  "collection": "OG Grills",
+  "artist": "Apecessories",
+  "id": 418,
+  "total_issued": 1000,
+  "name": "OG Grill #418",
+  "description": "Collection of OG Grills for your Apes and other NFTs",
+  "image": "ipfs://XXX/418.png",
+  "date_generation": 1646499012444,
+  "date_in_store": "Mar 2022",
+  "info": [
+    "https://apecessories.com",
+    "https://apecessories.store"
+  ],
+  "production_lab": "AK47 Studio",
+  "item_hash": "54060e3b1122df2978774d80f06dbd6dfbe52459952076ec5fdf1be46ee93e6c",
+  "collection_hash": "a3756993bf89847caeaa99fe59841dffff2736bf60fc957aeef574a4899b76e7",
+  "attributes": [
+    {
+      "trait_type": "Outline",
+      "value": "Phoneme Vuh"
+    },
+    {
+      "trait_type": "Grill",
+      "value": "Cross"
+    },
+    {
+      "trait_type": "Inner fill",
+      "value": "Banana"
+    },
+    {
+      "trait_type": "Outer fill",
+      "value": "Cross"
+    }
+  ]
+}

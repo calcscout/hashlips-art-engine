@@ -28,7 +28,7 @@ const updateOption = process.argv[2] ? process.argv[2] : option.onchain;
 
 //data for onchain metadata
 const collection = 'OG Tattoos';
-const namePrefix = 'OG Tattos #';
+const namePrefix = 'OG Tattoo #';
 const description = 'Collection of OG Tattoos for your Apes and other NFTs';
 const artist = 'Apecessories';
 const productionLab = 'AK47 Studio';

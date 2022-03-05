@@ -47,7 +47,7 @@ const mouthNumbers = {
 };
 
 // General metadata for Ethereum
-const namePrefix = 'OG Tattoos';
+const namePrefix = 'OG Tattoo';
 const description = 'Collection of NFT tattoos for your Apes and other NFTs';
 const baseUri = 'ipfs://[XXX]';
 

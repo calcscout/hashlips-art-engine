@@ -1,5 +1,5 @@
 //here you define which config to use
-const configToUse = './config_tattoos';
+const configToUse = './config_grills';
 
 const {
 	format,
