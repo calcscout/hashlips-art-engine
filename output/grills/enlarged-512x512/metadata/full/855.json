@@ -5,7 +5,7 @@
   "total_issued": 1000,
   "name": "OG Grill #855",
   "description": "Collection of OG Grills for your Apes and other NFTs",
-  "image": "ipfs://XXX/855.png",
+  "image": "ipfs://QmP3hmRb2eKh1tY4shps7tuuWbtBLa7BAiiDJC5uPL2NCm/855.png",
   "date_generation": 1646499014979,
   "date_in_store": "Mar 2022",
   "info": [
@@ -39,5 +39,7 @@
   ],
   "fittingApes": [
     7
-  ]
+  ],
+  "opensea_id": "2987503284076859872436542778939479470751586599002203531735462109264115400705",
+  "opensea_contract": "0x495f947276749ce646f68ac8c248420045cb7b5e"
 }

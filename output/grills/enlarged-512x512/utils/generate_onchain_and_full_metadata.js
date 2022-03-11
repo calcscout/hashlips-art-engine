@@ -1,130 +1,138 @@
 const basePath = process.cwd();
-const crypto = require('crypto');
-const fs = require('fs');
-const { readFile } = require('fs/promises');
+const crypto = require("crypto");
+const fs = require("fs");
+const { readFile } = require("fs/promises");
 const {
-	hashFromFile,
-	hashFromCollection,
-} = require('../../../utils_common/hashGenerator');
-const { grillsMapping } = require('./supporting');
+  hashFromFile,
+  hashFromCollection,
+} = require("../../../utils_common/hashGenerator");
+const { grillsMapping } = require("./supporting");
 
 // read initial metadata
 let rawdata = fs.readFileSync(`../metadata/initial/_metadata.json`);
 let initialMedatada = JSON.parse(rawdata);
 
+// read data scrapped from opensea after collection is published
+// should be ordered from 1 to 1000!!!
+let openseaDataRaw = fs.readFileSync(`../opensea/grillsOpenSeaClean.json`);
+let openseaData = JSON.parse(openseaDataRaw);
+
 const option = {
-	onchain: 'onchain', //updated based on initial metadata
-	full: 'full', //updated based on initial metadata
-	// initial: 'initial',
+  onchain: "onchain", //updated based on initial metadata
+  full: "full", //updated based on initial metadata
+  // initial: 'initial',
 };
 
 //Please choose your update option
 const updateOption = process.argv[2] ? process.argv[2] : option.onchain;
 
 //data for onchain metadata
-const collection = 'OG Grills';
-const namePrefix = 'OG Grill #';
-const description = 'Collection of OG Grills for your Apes and other NFTs';
-const artist = 'Apecessories';
-const productionLab = 'AK47 Studio';
-const productionDate = 'Mar 2022';
-const info = ['https://apecessories.com', 'https://apecessories.store'];
+const collection = "OG Grills";
+const namePrefix = "OG Grill #";
+const description = "Collection of OG Grills for your Apes and other NFTs";
+const artist = "Apecessories";
+const productionLab = "AK47 Studio";
+const productionDate = "Mar 2022";
+const info = ["https://apecessories.com", "https://apecessories.store"];
 const totalIssued = initialMedatada.length;
-const imageIPFSCID = 'XXX';
+const imageIPFSCID = "QmP3hmRb2eKh1tY4shps7tuuWbtBLa7BAiiDJC5uPL2NCm";
 
 //data for full metadata (in addition to onchain fields)
-const collectionPath = 'grills';
-const fittingApeCollections = ['bayc']; //to be aligned with frontend codes
+const collectionPath = "grills";
+const fittingApeCollections = ["bayc"]; //to be aligned with frontend codes
 const fittingMouthNumbers = (item) => {
-	const race = item.attributes.find(
-		(attribute) => attribute.trait_type === 'Outline'
-	).value;
-	const fittingNumbersArray = grillsMapping.find(
-		(mouth) => mouth.mouthType === race
-	).apes;
-	if (!fittingNumbersArray) {
-		console.log(
-			'Please check function which search fitting mouth numbers, no result found!!!'
-		);
-	}
-	return fittingNumbersArray;
+  const race = item.attributes.find(
+    (attribute) => attribute.trait_type === "Outline"
+  ).value;
+  const fittingNumbersArray = grillsMapping.find(
+    (mouth) => mouth.mouthType === race
+  ).apes;
+  if (!fittingNumbersArray) {
+    console.log(
+      "Please check function which search fitting mouth numbers, no result found!!!"
+    );
+  }
+  return fittingNumbersArray;
 }; // zero if it fits all apes
 
 //shape of onchain metadata object
 
 const generateOnchainMetadataObject = async (
-	_initialMetadataObject,
-	_hashOfCollection
+  _initialMetadataObject,
+  _hashOfCollection
 ) => {
-	const hash = await hashFromFile(
-		`../img/${_initialMetadataObject.edition}.png`
-	);
+  const hash = await hashFromFile(
+    `../img/${_initialMetadataObject.edition}.png`
+  );
 
-	return {
-		collection,
-		artist,
-		id: _initialMetadataObject.edition,
-		total_issued: totalIssued,
-		name: `${namePrefix}${_initialMetadataObject.edition}`,
-		description,
-		image: `ipfs://${imageIPFSCID}/${_initialMetadataObject.edition}.png`,
-		date_generation: _initialMetadataObject.date,
-		date_in_store: productionDate,
-		info,
-		production_lab: productionLab,
-		item_hash: hash,
-		collection_hash: _hashOfCollection,
-		attributes: _initialMetadataObject.attributes,
-	};
+  return {
+    collection,
+    artist,
+    id: _initialMetadataObject.edition,
+    total_issued: totalIssued,
+    name: `${namePrefix}${_initialMetadataObject.edition}`,
+    description,
+    image: `ipfs://${imageIPFSCID}/${_initialMetadataObject.edition}.png`,
+    date_generation: _initialMetadataObject.date,
+    date_in_store: productionDate,
+    info,
+    production_lab: productionLab,
+    item_hash: hash,
+    collection_hash: _hashOfCollection,
+    attributes: _initialMetadataObject.attributes,
+  };
 };
 
 const generateFullMetadataObject = async (
-	_initialMetadataObject,
-	_hashOfCollection
+  _initialMetadataObject,
+  _hashOfCollection,
+  _id
 ) => {
-	const onChainMetadata = await generateOnchainMetadataObject(
-		_initialMetadataObject,
-		_hashOfCollection
-	);
-	const fittingApes = fittingMouthNumbers(_initialMetadataObject);
-	return {
-		...onChainMetadata,
-		collectionPath,
-		fittingApeCollections,
-		fittingApes,
-	};
+  const onChainMetadata = await generateOnchainMetadataObject(
+    _initialMetadataObject,
+    _hashOfCollection
+  );
+  const fittingApes = fittingMouthNumbers(_initialMetadataObject);
+  return {
+    ...onChainMetadata,
+    collectionPath,
+    fittingApeCollections,
+    fittingApes,
+    opensea_id: openseaData[_id].token_id,
+    opensea_contract: openseaData[_id].asset_contract_address,
+  };
 };
 
 const generate = async (_initialMedatada, _hashOfCollection) => {
-	let resultingMetadataArray = [];
+  let resultingMetadataArray = [];
 
-	for (let i = 0; i < initialMedatada.length; i++) {
-		let item = _initialMedatada[i];
-		let resultingMetadataObject =
-			updateOption === option.onchain
-				? await generateOnchainMetadataObject(item, _hashOfCollection)
-				: await generateFullMetadataObject(item, _hashOfCollection);
-		fs.writeFileSync(
-			`../metadata/${updateOption}/${item.edition}.json`,
-			JSON.stringify(resultingMetadataObject, null, 2)
-		);
-		resultingMetadataArray.push(resultingMetadataObject);
-	}
+  for (let i = 0; i < initialMedatada.length; i++) {
+    let item = _initialMedatada[i];
+    let resultingMetadataObject =
+      updateOption === option.onchain
+        ? await generateOnchainMetadataObject(item, _hashOfCollection)
+        : await generateFullMetadataObject(item, _hashOfCollection, i);
+    fs.writeFileSync(
+      `../metadata/${updateOption}/${item.edition}.json`,
+      JSON.stringify(resultingMetadataObject, null, 2)
+    );
+    resultingMetadataArray.push(resultingMetadataObject);
+  }
 
-	const hashOfCollection = hashFromCollection(resultingMetadataArray);
+  const hashOfCollection = hashFromCollection(resultingMetadataArray);
 
-	fs.writeFileSync(
-		`../metadata/${updateOption}/_metadata.json`,
-		JSON.stringify(resultingMetadataArray, null, 2)
-	);
+  fs.writeFileSync(
+    `../metadata/${updateOption}/_metadata.json`,
+    JSON.stringify(resultingMetadataArray, null, 2)
+  );
 
-	return hashOfCollection;
+  return hashOfCollection;
 };
 
 const generateWithCollectionHash = async () => {
-	const hashInitial = '';
-	const hashNew = await generate(initialMedatada, hashInitial);
-	await generate(initialMedatada, hashNew);
+  const hashInitial = "";
+  const hashNew = await generate(initialMedatada, hashInitial);
+  await generate(initialMedatada, hashNew);
 };
 
 generateWithCollectionHash();
